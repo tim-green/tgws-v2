@@ -5,9 +5,48 @@
 
 */
 
-body{
-  background: white; // Change to $color-primary
+html *{
+  -webkit-appearance: none;
+  border: 0;
+  box-sizing: border-box;
+  font-family: $font-stack;
   margin: 0;
-  font: 14px/20px sans-serif;
-  color: $color-primary;
+  padding: 0;
+}
+
+html{
+  font-size: 100%;
+  -moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	height: -webkit-fill-available;
+	text-rendering: optimizeLegibility;
+	-webkit-text-size-adjust: 100%
+}
+
+body{
+  background: $black;
+  color: $white;
+}
+
+a {
+	color: $white;
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
+
+img:not([src]) {
+	visibility: hidden;
+}
+
+svg {
+	fill: $white;
+}
+
+ol,ul {
+	list-style: none;
 }
