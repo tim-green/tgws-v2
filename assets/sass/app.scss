@@ -1,0 +1,50 @@
+/*!
+
+  This is the core import file. 
+  Section your Sass stylesheets according to the below structure for a nice flow.
+
+*/
+
+/*
+
+ ==== modules ====
+
+*/
+
+@import "modules/mixins";
+@import "modules/variables";
+@import "modules/base";
+@import "modules/typography";
+
+/*
+
+ ==== Plugins ====
+
+*/
+
+
+
+/*
+
+ ==== Components ====
+
+*/
+
+@import "components/components";
+
+/*
+
+ ==== Sections ====
+
+*/
+
+@import "sections/header";
+@import "sections/main";
+@import "sections/footer";
+
+
+/*
+
+ ==== Pages ====
+
+*/

@@ -1,0 +1,61 @@
+/*
+
+  Variables
+  +
+
+*/
+
+// Colours
+
+$color-primary: DarkSlateBlue;
+
+//Black
+$black: #000;
+$medium-black: #1d1d1d;
+$darker-gray: #272727;
+$dark-gray:#101010;
+$medium-gray: #888;
+$light-gray: #d1d1d1;
+
+//White
+$white: #fff;
+
+//Red
+$soft-red: #dc535b;
+$medium-red: #c9373f;
+
+//Blue
+$aqua: #00add0;
+//Purple
+$magenta: #930f5b;
+
+// Base
+
+$base-line-height: 1.7;
+
+//Google font
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+
+//Typekit font
+
+//Fonts
+$font-stack: Helvetica, sans-serif;
+$roboto-slab: 'Roboto Slab', serif;   
+$open-sans: 'Open Sans', sans-serif;
+
+// Weights
+$hairline-weight: 100;
+$thin-weight:     200;
+$light-weight:    300;
+$normal-weight:   400;
+$medium-weight:   500;
+$semibold-weight: 600;
+$bold-weight:     700;
+$xbold-weight:    800;
+$black-weight:    900;
+
+//Text Transform
+$text-cap: capitalize; 
+$text-lower: lowercase;
+$text-upper: uppercase;
+$text-none: none;

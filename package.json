@@ -1,0 +1,25 @@
+{
+  "name": "tim-green-v2",
+  "version": "1.0.0",
+  "description": "The brand spanky new website for Tim Green for this year.",
+  "author": "Tim Green",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tim-green/tgws-v2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.16.1"
+  },
+  "keywords": [
+    "grunt, sass"
+  ],
+  "devDependencies": {
+    "grunt": "~1.4.0",
+    "grunt-contrib-clean": "~2.0.0",
+    "grunt-contrib-jshint": "~3.0.0",
+    "grunt-contrib-sass": "~2.0.0",
+    "grunt-contrib-uglify": "~5.0.1",
+    "grunt-contrib-watch": "~1.1.0"
+  }
+}
