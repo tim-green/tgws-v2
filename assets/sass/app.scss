@@ -11,18 +11,13 @@
 
 */
 
+@import "modules/font-face";
 @import "modules/mixins";
 @import "modules/variables";
+@import "modules/root";
 @import "modules/base";
 @import "modules/typography";
-
-/*
-
- ==== Plugins ====
-
-*/
-
-
+@import "modules/media-queries";
 
 /*
 
@@ -30,7 +25,24 @@
 
 */
 
-@import "components/components";
+@import "components/buttons";
+@import "components/cookies";
+@import "components/gallery";
+@import "components/icons";
+@import "components/modal";
+@import "components/neon-gradient";
+@import "components/the-networks";
+
+
+/*
+
+ ==== Plugins ====
+
+*/
+
+@import "plugins/swiper";
+
+
 
 /*
 
@@ -38,8 +50,8 @@
 
 */
 
-@import "sections/header";
 @import "sections/main";
+@import "sections/header";
 @import "sections/footer";
 
 
@@ -48,3 +60,4 @@
  ==== Pages ====
 
 */
+@import "pages/pages";
