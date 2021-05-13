@@ -46,10 +46,23 @@
 <!-- CSS -->
 
 <!-- JS -->
+<body class="fonts-enabled page-loaded">
+    <div id="progress-bar">
+		<div id="progress-bar-indicator"></div>
+	</div>
 <script type="text/javascript" src="assets/build/app.min.js"></script>
 
 <!-- Livereload -->
 <script src="http://localhost:35729/livereload.js"></script>
 
+    <main id="main">
+    </main>
+    <aside id="profile" class="full-viewport">
+    </aside>
+    <footer id="footer" class="full-viewport vertically-centered">
+    </footer>
+<!-- js -->
+<script type="text/javascript" src="assets/build/app.min.js"></script>
+<script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
 </body>
 </html>
