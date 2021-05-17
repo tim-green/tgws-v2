@@ -2,16 +2,6 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
-    jshint: {
-      options: {
-        jshintrc: '.jshintrc'
-      },
-      all: [
-        'Gruntfile.js',
-        'assets/js/**/*.js',
-        '!assets/build/app.min.js'
-      ]
-    },
     sass: {
       dist: {
         options: {
@@ -30,10 +20,23 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'assets/build/app.min.js': [
-            'assets/js/app.js'
+          'assets/js/vendor/anime.js', 
+          'assets/js/vendor/vanilla-lazyload.js',
+          'assets/js/vendor/swiper.js',
+          'assets/js/plugins/swiper.init.js',
+          'assets/js/plugins/progress-bar.js',
+          'assets/js/plugins/accordion.js',
+          'assets/js/plugins/ios.js',
+          'assets/js/plugins/modal.js',
+          'assets/js/plugins/navpag.js',
+          'assets/js/plugins/smooth-scroll.js',
+          'assets/js/plugins/cookies.js',
+          'assets/js/plugins/anime.init.js', 
+          'assets/js/plugins/plugins.js',
           ]
         },
         options: {
+          preserveComments: false,
           sourceMap: 'assets/build/app.min.js.map',
           sourceMappingURL: '/assets/build/app.min.js.map'
         }
@@ -51,9 +54,21 @@ module.exports = function(grunt) {
       },
       js: {
         files: [
-          'assets/js/**/*.js'
+          'assets/js/vendor/anime.js', 
+          'assets/js/vendor/vanilla-lazyload.js',
+          'assets/js/vendor/swiper.js',
+          'assets/js/plugins/swiper.init.js',
+          'assets/js/plugins/progress-bar.js',
+          'assets/js/plugins/accordion.js',
+          'assets/js/plugins/ios.js',
+          'assets/js/plugins/modal.js',
+          'assets/js/plugins/navpag.js',
+          'assets/js/plugins/smooth-scroll.js',
+          'assets/js/plugins/cookies.js',
+          'assets/js/plugins/anime.init.js', 
+          'assets/js/plugins/plugins.js',
         ],
-        tasks: ['jshint', 'uglify']
+        tasks: ['uglify']
       },
       html: {
         files: [
@@ -71,7 +86,6 @@ module.exports = function(grunt) {
 
   // Load tasks
   grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-sass');
