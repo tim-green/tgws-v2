@@ -60,5 +60,10 @@ $text-cap: capitalize;
 $text-lower: lowercase;
 $text-upper: uppercase;
 $text-none: none;//styles etc boxshadow 
+
+//Transitions
+$thetransition: all 0.25s cubic-bezier(1, 0.25, 0, 0.75) 0s;
+
+//styles etc boxshadow 
 $box-shadow:0 0.5em 1em -0.125em rgba(0, 0, 0, 0.1), 0 0px 0 1px rgba(0, 0, 0, 0.02);
 $box-shadow-hover: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
