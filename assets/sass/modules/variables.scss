@@ -9,6 +9,7 @@
 
 $color-primary: DarkSlateBlue;
 
+
 //Black
 $black: #050505;
 $medium-black: #020202;
@@ -59,7 +60,7 @@ $black-weight:    900;
 $text-cap: capitalize; 
 $text-lower: lowercase;
 $text-upper: uppercase;
-$text-none: none;//styles etc boxshadow 
+$text-none: none;
 
 //Transitions
 $thetransition: all 0.25s cubic-bezier(1, 0.25, 0, 0.75) 0s;
