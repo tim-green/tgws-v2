@@ -65,3 +65,10 @@ ol,ul {
 	white-space: nowrap;
 	width: 1px
 }
+
+.wrapper {
+	margin: 0 auto;
+	max-width: var(--max-width-wrapper);
+	padding: calc(var(--padding) * 2) calc(var(--padding) + env(safe-area-inset-right)) calc(var(--padding) * 2) calc(var(--padding) + env(safe-area-inset-left));
+}
+
