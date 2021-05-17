@@ -5,10 +5,8 @@
 
 */
 
-.main{
-  padding: 0 30px;
+::selection, ::-moz-selection{
+  background: rgba($color: $black, $alpha: 0.6);
+  color: $white;
 }
 
-.main-success{
-  color: white;
-}
