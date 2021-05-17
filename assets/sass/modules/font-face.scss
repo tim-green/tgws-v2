@@ -1,0 +1,53 @@
+/*
+
+  Font Face
+  +
+
+*/
+@font-face {
+  font-family: "Gordita";
+  src: url("../fonts/gordita/Gordita-Black.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/gordita/Gordita-Black.otf") format("opentype"),
+    url("../fonts/gordita/Gordita-Black.woff") format("woff"),
+    url("../fonts/gordita/Gordita-Black.ttf") format("truetype"),
+    url("../fonts/gordita/Gordita-Black.svg#Gordita-Black") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita";
+  src: url("../fonts/gordita/Gordita-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/gordita/Gordita-Regular.otf") format("opentype"),
+    url("../fonts/gordita/Gordita-Regular.woff") format("woff"),
+    url("../fonts/gordita/Gordita-Regular.ttf") format("truetype"),
+    url("../fonts/gordita/Gordita-Regular.svg#Gordita-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita";
+  src: url("../fonts/gordita/Gordita-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/gordita/Gordita-Bold.otf") format("opentype"),
+    url("../fonts/gordita/Gordita-Bold.woff") format("woff"),
+    url("../fonts/gordita/Gordita-Bold.ttf") format("truetype"),
+    url("../fonts/gordita/Gordita-Bold.svg#Gordita-Bold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gordita";
+  src: url("../fonts/gordita/Gordita-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/gordita/Gordita-Medium.otf") format("opentype"),
+    url("../fonts/gordita/Gordita-Medium.woff") format("woff"),
+    url("../fonts/gordita/Gordita-Medium.ttf") format("truetype"),
+    url("../fonts/gordita/Gordita-Medium.svg#Gordita-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
