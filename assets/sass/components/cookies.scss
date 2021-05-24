@@ -1,0 +1,50 @@
+/*
+
+  Cookie Jar.... cookies... cookie monster...
+  +
+
+*/
+
+
+#cookie-bar {
+	background: rgba(0, 0, 0, .7);
+	background-image: linear-gradient(180deg, rgba(20, 20, 20, .6) 0, rgba(15, 15, 15, .6) 100%);
+	border-top: rgba(30, 30, 30, .6) 1px solid;
+	bottom: 0;
+	box-shadow: rgba(0, 0, 0, .4) 0 1rem 3rem 1rem;
+	font-size: var(--small-paragraph);
+	left: 0;
+	position: fixed;
+	right: 0;
+	z-index: 1000
+}
+#cookie-bar .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding-bottom: calc(var(--padding) + env(safe-area-inset-bottom));
+	padding-top: var(--padding)
+}
+#cookie-bar.hide {
+	bottom: -500px;
+	opacity: 0
+}
+
+#cookie-button {
+	margin: 1.5rem 0 0;
+	white-space: nowrap;
+	
+	span.accent {
+		color: var(--gradient-start);
+		margin-left: .25rem
+	}
+	
+	svg {
+		fill: rgba(239, 0, 215, .8);
+		height: 1rem;
+		margin: 0 .35rem 0 1rem;
+		stroke: none;
+		width: 1rem;
+		transform: translateY(.1rem)
+	}
+}
