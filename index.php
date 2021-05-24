@@ -4,13 +4,10 @@
   <meta charset="utf-8">
   <meta name="robots" content="noindex,nofollow" />
   <meta name="author" content="Tim Green">
-  <title>Sass Starter - Grunt</title>
+  <title>Tim Green</title>
+  <link rel="preload" href="assets/build/app.min.css" as="style">
   <link rel="stylesheet" href="assets/build/app.min.css">
-
   <!-- Tim Green -->
-</head>
-<body>
-
 <!-- Header -->
 <header class="header" role="banner">
     <h1>Grunt Sass Starter Setup</h1>
