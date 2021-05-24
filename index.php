@@ -45,6 +45,19 @@
 
 <!-- JS -->
 <body class="fonts-enabled page-loaded">
+    <!-- planned out components will start here -->
+
+    <!-- preloader -->
+    <!-- 
+        header
+        inside header will be the TG hero text/intro
+        navigation include partial/navigation
+     -->
+    <!-- 
+        main
+        inside main will contain selected work/work
+        about us
+     -->
     <div id="progress-bar">
 		<div id="progress-bar-indicator"></div>
 	</div>
