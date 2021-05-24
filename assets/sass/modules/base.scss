@@ -20,7 +20,18 @@ html{
 	-webkit-font-smoothing: antialiased;
 	height: -webkit-fill-available;
 	text-rendering: optimizeLegibility;
-	-webkit-text-size-adjust: 100%
+	-webkit-text-size-adjust: 100%;
+
+	.fonts-enabled * {
+		-moz-font-feature-settings: "ss03";
+		-webkit-font-feature-settings: "ss03";			font-feature-settings: "ss03";
+		-moz-font-variant-numeric: oldstyle-nums;
+		-webkit-font-variant-numeric: oldstyle-nums;
+		font-variant-numeric: oldstyle-nums;
+		-moz-font-variant-ligatures: common-ligatures;
+		-webkit-font-variant-ligatures: common-ligatures;
+		font-variant-ligatures: common-ligatures;
+		}
 }
 
 body{
