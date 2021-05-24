@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow" />
   <meta name="author" content="Tim Green">
   <title>Sass Starter - Grunt</title>
   <link rel="stylesheet" href="assets/build/app.min.css">
