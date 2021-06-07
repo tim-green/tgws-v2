@@ -54,6 +54,8 @@
 
 </footer>
 <!-- / Footer -->
+  <!-- Preload -->
+  <link rel="preload" href="assets/build/app.min.css" as="style">
 
 <!-- CSS -->
 
