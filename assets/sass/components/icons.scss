@@ -1,0 +1,32 @@
+/*
+
+  Icons
+  +
+
+*/
+
+
+.icon {
+	display: inline-block;
+	height: 1.5rem;
+	position: relative;
+	vertical-align: middle;
+	width: 1.5rem;
+
+    svg {
+        display: block;
+        fill: none;
+        height: 1.5rem;
+        stroke: $white;
+        stroke-width: 1;
+        width: 1.5rem
+    }
+}
+
+.icon.arrow-up {
+	transform: rotate(180deg)
+}
+
+.icon.close {
+	transform: rotate(45deg)
+}
