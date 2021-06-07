@@ -63,7 +63,7 @@
     <footer id="footer" class="full-viewport vertically-centered">
     </footer>
 <!-- js -->
-<script src="assets/build/app.min.js" async></script>
+<script src="assets/build/app.min.js"></script>
 <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
 <!-- back to top -->
 <?php include_once('includes/back-to-top.php'); ?>
