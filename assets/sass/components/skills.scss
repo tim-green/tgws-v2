@@ -1,0 +1,33 @@
+/*
+
+  Skills
+  +
+
+*/
+
+
+#skills .content {
+	padding-right: 1rem;
+}
+
+#skills > .grid {
+	grid-gap: 2rem;
+	padding: 2rem 0 0;
+}
+
+#skills .grid > div {
+	position: relative;
+}
+
+#skills .grid > div > svg {
+	fill: rgba(255, 255, 255, 0.05);
+	height: auto;
+	position: absolute;
+	right: 0;
+	top: -1.5rem;
+	width: 40%;
+}
+
+#skills .grid p {
+	color: rgba(255, 255, 255, 0.6);
+}
