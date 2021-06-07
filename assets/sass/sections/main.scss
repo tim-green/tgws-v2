@@ -21,3 +21,9 @@
 .content.large-paragraph p {
 	font-size: var(--large-paragraph)
 }
+.display-heading {
+	font-size: var(--display-heading);
+	letter-spacing: -.133px;
+	font-weight: 700;
+	line-height: 1.1
+}
