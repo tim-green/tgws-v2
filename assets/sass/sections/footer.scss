@@ -7,4 +7,7 @@
 
 .footer{
   padding: 0 30px 150px;
+#footer .wrapper {
+	padding-bottom: calc(var(--padding) * 2 + env(safe-area-inset-bottom));
+	position: relative
 }
