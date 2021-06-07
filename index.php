@@ -49,8 +49,8 @@
   <meta name="msapplication-TileColor" content="#11998e">
   <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
 
-<!-- Footer -->
-<footer class="footer" role="contentinfo">
+  <!-- DNS Prefetch -->
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
 </footer>
 <!-- / Footer -->
