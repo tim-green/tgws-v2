@@ -1,0 +1,122 @@
+/*
+
+  modal
+  +
+
+*/
+
+.modal {
+	position: fixed;
+	visibility: hidden;
+	z-index: -100
+}
+
+.modal {
+	background: rgba(0, 0, 0, 0.8);
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+	overflow: hidden;
+	padding: var(--padding) var(--padding) calc(var(--padding) + env(safe-area-inset-bottom));
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: -1;
+	display: flex;
+}
+
+.modal-content {
+	background: rgba(20, 20, 20, 1);
+	border-radius: 1rem;
+	box-shadow: rgba(255, 0, 230, 0) 0 0 0 4px, rgba(0, 0, 0, 0.9) 0 1rem 3rem 1rem;
+	margin: 0 auto;
+	max-width: var(--max-width-wrapper);
+	overflow-y: scroll;
+	top: var(--padding);
+	transform: translateY(5vh);
+	display: none;
+	flex: 1;
+}
+
+.modal-content:before {
+	animation: loader .6s linear infinite;
+	border-top: rgba(255, 255, 255, 0.4) 2px solid;
+	border-right: transparent 2px solid;
+	border-radius: 50%;
+	content: "";
+	height: 2rem;
+	left: 50%;
+	margin: -1rem 0 0 -1rem;
+	position: absolute;
+	top: 50%;
+	width: 2rem;
+	z-index: 101;
+	display: none;
+}
+
+.modal-content .wrapper {
+	background: rgba(20, 20, 20, 1);
+	opacity: 0;
+	padding: var(--padding) 0;
+	position: relative;
+	transform: translateY(5vh);
+	z-index: 102;
+}
+
+#modal-profile-button {
+	margin: max(1.5rem, calc(var(--padding) / 2)) 0 0;
+}
+
+#modal-profile-button .icon {
+	box-shadow: rgba(255, 255, 255, 1) 0 0 0 1px;
+	border-radius: 1.5rem;
+}
+
+#modal-profile-button .icon svg {
+	transform: scale(0.6);
+}
+
+.js-enabled #modal-profile-button {
+	align-items: center;
+	display: flex;
+}
+
+#modal-profile-close {
+	background: $white;
+	float: right;
+	font-weight: 500;
+	position: -webkit-sticky;
+	position: sticky;
+	top: var(--padding);
+	z-index: 150;
+	padding: 0;
+}
+
+#modal-profile-close .icon {
+	margin: 0 auto;
+}
+
+.modal.open {
+	opacity: 1;
+	visibility: visible;
+	z-index: 100;
+}
+
+.modal.open .modal-content {
+	transform: translateY(0);
+	display: block;
+
+	&:before {
+		display: block;
+	}
+}
+
+
+.modal.open .modal-content .wrapper {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.modal.open.loaded .modal-content:before {
+	display: none;
+}
