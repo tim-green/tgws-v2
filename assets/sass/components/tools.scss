@@ -1,0 +1,46 @@
+/*
+
+  Tools
+  +
+
+*/
+
+#tools {
+	background: rgba(0, 0, 0, 0.3);
+	border-radius: var(--border-radius);
+	padding: 1.5rem;
+}
+
+#tools h3 {
+	padding: 0.5rem 0;
+}
+
+#tools li {
+	font-size: var(--overline);
+	font-weight: 500;
+	letter-spacing: 0.4pt;
+	line-height: 1.5rem;
+	vertical-align: middle;
+}
+
+#tools .grid {
+	gap: 1.5rem;
+	grid-template-columns: repeat(2, 1fr);
+	margin: 1rem 0 0;
+}
+
+#tools .overline {
+	color: rgba(255, 255, 255, 0.4);
+	margin: 0 0 0.25rem;
+}
+
+
+#tools svg {
+	/*display: inline-block;
+	fill: rgba(255, 255, 255, 0.6);
+	height: 1rem;
+	margin-right: 0.25rem;
+	vertical-align: middle;
+	width: 1rem;*/
+	display: none;
+}
