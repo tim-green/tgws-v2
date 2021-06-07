@@ -1,3 +1,4 @@
+<div class="wrapper">
 	<div class="content large-paragraph">
 		<?php 
 			/*include social and code networks*/ 
