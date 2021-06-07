@@ -5,8 +5,10 @@
 
 */
 
-.footer{
-  padding: 0 30px 150px;
+
+#footer .back-to-top {
+	margin: var(--padding) 0 0
+}
 #footer .wrapper {
 	padding-bottom: calc(var(--padding) * 2 + env(safe-area-inset-bottom));
 	position: relative
