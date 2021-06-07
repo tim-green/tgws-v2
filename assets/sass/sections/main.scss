@@ -10,3 +10,14 @@
   color: $white;
 }
 
+.content p {
+	font-size: var(--medium-paragraph);
+	font-weight: 400;
+	letter-spacing: .1pt;
+	line-height: 1.5;
+	margin: 1rem 0;
+	max-width: 60rem
+}
+.content.large-paragraph p {
+	font-size: var(--large-paragraph)
+}
