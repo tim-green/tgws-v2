@@ -27,3 +27,14 @@
 	font-weight: 700;
 	line-height: 1.1
 }
+.footnote {
+	color: rgba(255, 255, 255, .3);
+	font-size: var(--footnote);
+	-webkit-font-smoothing: subpixel-antialiased;
+	font-weight: 400;
+	letter-spacing: .233px;
+	line-height: 1.5;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none
+}
