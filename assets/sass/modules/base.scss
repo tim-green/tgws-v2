@@ -338,6 +338,7 @@ stop-color: var(--gradient-start);
 }
 
 #profile {
+#profile, .black-wrap {
 	background: rgba(20, 20, 20, 1);
 	background-image: linear-gradient(180deg, rgba(25, 25, 25, 1) 0%, rgba(20, 20, 20, 1) 10%, rgba(20, 20, 20, 1) 90%, rgba(15, 15, 15, 1) 100%);
 	overflow: hidden;
