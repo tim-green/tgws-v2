@@ -1,0 +1,78 @@
+/*
+
+  Timeline
+  +
+
+*/
+
+
+#timeline h4 {
+	position: relative;
+	z-index: 2;
+}
+
+#timeline dt {
+	position: relative;
+	z-index: 2;
+}
+
+#timeline dd {
+	color: rgba(255, 255, 255, 0.6);
+	font-size: 0.8rem;
+	font-weight: 500;
+	letter-spacing: 0.4pt;
+	position: relative;
+	z-index: 2;
+}
+
+#timeline dd strong {
+	color: rgba(255, 255, 255, 1);
+	font-weight: 500;
+}
+
+#timeline .block {
+	padding: 1rem 0 ;
+	margin: 1rem 0 0;
+	position: relative;
+}
+
+#timeline .block:before {
+	background: rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+	bottom: 0;
+	content: "";
+	display: block;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 0;
+}
+
+#timeline .segment, #timeline .duration {
+	background: rgba(255, 255, 255, 0.2);
+	border-radius: 1rem;
+	color: rgba(255, 255, 255, 1);
+	display: inline-block;
+	font-size: 0.6rem;
+	-moz-font-variant-numeric: normal;
+	-webkit-font-variant-numeric: normal;
+	font-variant-numeric: normal;
+	font-weight: 700;
+	height: 1rem;
+	overflow: hidden;
+	letter-spacing: 0.4pt;
+	line-height: 1rem;
+	text-align: center;
+	text-transform: uppercase;
+	vertical-align: middle;
+	width: 1rem;
+}
+
+#timeline .years {
+	color: rgba(255, 255, 255, 0.3);
+	font-size: 0.8rem;
+	font-weight: 500;
+	letter-spacing: 0.4pt;
+	text-transform: uppercase;
+}
