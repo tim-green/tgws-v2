@@ -65,5 +65,7 @@
 <!-- js -->
 <script src="assets/build/app.min.js" async></script>
 <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
+<!-- back to top -->
+<?php include_once('includes/back-to-top.php'); ?>
 </body>
 </html>
