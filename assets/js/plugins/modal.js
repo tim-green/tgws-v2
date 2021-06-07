@@ -4,10 +4,7 @@ const profileModal = document.getElementById('modal-profile');
 const profileModalContent = document.getElementById('modal-content');
 
 profileModalButton.addEventListener('click', function() {
-
-
 		if (!profileModal.classList.contains('loaded')) {
-
 			fetch('/work/work.php').then(function (response) {
 				// The API call was successful!
 				return response.text();
@@ -60,9 +57,6 @@ profileModalButton.addEventListener('click', function() {
 		profileModalContent.scrollTo(0, 0);
 		profileModal.classList.add('open');
 		bodyScrollLock.disableBodyScroll(targetElement);
-
-		
-
 });
 
 profileModalClose.addEventListener('click', function() {
