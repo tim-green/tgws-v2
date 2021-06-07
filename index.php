@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="robots" content="index,follow" />
+  <meta name="theme-color" content="#11998e">
   <meta name="author" content="Tim Green">
   
   <title>Tim Green // Front End Developer in Canberra</title>
