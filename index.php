@@ -34,6 +34,7 @@
 
 </main>
 <!-- / Main -->
+  <title>Tim Green // Front End Developer in Canberra</title>
   
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
