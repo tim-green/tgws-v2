@@ -1,14 +1,12 @@
 /*!
 
-  This is the core import file. 
-  Section your Sass stylesheets according to the below structure for a nice flow.
+  This is the core import file for TimGreen.ws. 
+  Site by: Tim Green
 
 */
 
 /*
-
  ==== modules ====
-
 */
 
 @import "modules/font-face";
@@ -17,37 +15,30 @@
 @import "modules/root";
 @import "modules/base";
 @import "modules/typography";
-@import "modules/media-queries";
 
 /*
-
- ==== Components ====
-
-*/
-
-@import "components/buttons";
-@import "components/cookies";
-@import "components/gallery";
-@import "components/icons";
-@import "components/modal";
-@import "components/neon-gradient";
-@import "components/the-networks";
-
-
-/*
-
  ==== Plugins ====
-
 */
 
 @import "plugins/swiper";
 
+/*
+ ==== Components ====
+*/
+
+@import "components/gallery";
+@import "components/buttons";
+@import "components/cookies";
+@import "components/icons";
+@import "components/modal";
+@import "components/neon-gradient";
+@import "components/the-networks";
+@import "modules/media-states";
+@import "modules/media-queries";
 
 
 /*
-
  ==== Sections ====
-
 */
 
 @import "sections/main";
@@ -56,8 +47,7 @@
 
 
 /*
-
  ==== Pages ====
-
 */
+
 @import "pages/pages";
