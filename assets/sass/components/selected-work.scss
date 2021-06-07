@@ -1,0 +1,138 @@
+/*
+
+  Selected Work + Clients
+  +
+
+*/
+#selected-works {
+	background-image: linear-gradient(90deg, rgba(79,22,91,.9) 10%, rgba(73,14,190,.9) 50%, rgba(99,27,175,.9) 90%);
+	display: flex
+}
+
+#selected-works img {
+	display: none
+}
+
+
+
+.js-enabled #selected-works img {
+	display: block
+}
+
+#selected-works .jump-to-project {
+	align-items: center;
+	display: flex;
+	margin: var(--padding) 0 0
+}
+
+#selected-works .wrapper {
+	display: flex;
+	flex: 1;
+	flex-direction: column
+}
+
+#selected-works li {
+	margin: 0.25rem 0 0;
+}
+
+#selected-works .overline {
+	line-height: 3rem;
+}
+
+#selected-works .button {
+	/*background: rgba(0, 0, 0, 0.2);*/
+	background: rgba(255, 255, 255, 0.1);
+}
+
+/*
+#selected-works .button {
+	background: rgba(255, 255, 255, 0.5);
+	color: rgba(0, 0, 0, 0.9);
+}
+
+#selected-works .button:focus {
+	box-shadow: rgba(0, 0, 0, 0.6) 0 0 0 2px;
+}*/
+
+
+/*
+#selected-works .jump-to-project:after {
+	content: "Choose a specific project or keep scrolling";
+	display: inline-block;
+	margin: 0 0 0 1.5rem;
+	opacity: 0.6;
+}*/
+
+#clients .large-heading {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+#clients svg {
+	fill: rgba(255, 255, 255, 0.8);
+	height: var(--small-heading);
+	width: auto;
+}
+
+#clients .lt svg, #clients .rt svg  {
+	height: calc(var(--small-heading) + 0.25rem);
+}
+
+#clients .tg svg{
+	height: calc(var(--small-heading) - 0.25rem);
+}
+
+#clients .gc svg{
+	height: calc(var(--small-heading) + 0.5rem);
+}
+
+#clients {
+	margin-left: calc((var(--padding) * -1) - env(safe-area-inset-left));
+	margin-right: calc((var(--padding) * -1) - env(safe-area-inset-right));
+}
+
+#clients .large-heading {
+	padding-left: calc(var(--padding) + env(safe-area-inset-left));
+	padding-right: calc(var(--padding) + env(safe-area-inset-right));
+}
+
+#clients li {
+	padding: 0 calc(var(--padding) / 2);
+}
+
+#clients li:first-child {
+	padding-left: calc(var(--padding) + env(safe-area-inset-left));
+}
+
+#clients li:last-child {
+	padding-right: calc(var(--padding) + env(safe-area-inset-right));
+}
+
+#clients.animate ul {
+	opacity: 0;
+	transform: translateX(3rem);
+}
+
+#clients.animate.play ul {
+	opacity: 1;
+	transform: translateX(0);
+	transition: all .6s ease;
+	transition-delay: .6s;
+}
+
+#clients {
+	overflow: hidden;
+	position: relative;
+	
+	ul {
+		align-items: center;
+		display: flex;
+		flex-wrap: nowrap;
+		overflow-x: scroll;
+		-webkit-overflow-scrolling: touch;
+		padding: var(--padding) 0
+	}
+
+	&::-webkit-scrollbar {
+		display: none
+	}
+}
