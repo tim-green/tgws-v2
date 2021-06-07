@@ -1,0 +1,23 @@
+/*
+
+  The Networks including social networks.
+  +
+
+*/
+
+#social-networks {
+	margin: var(--padding) 0;
+}
+
+#social-networks a {
+	padding: 0;
+	text-align: center;
+	width: 3rem;
+}
+
+#social-networks ul {
+	display: grid;
+	gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(3rem, 1fr))
+}
+
