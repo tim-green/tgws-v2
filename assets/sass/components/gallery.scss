@@ -1,0 +1,183 @@
+/*
+
+  Gallery
+  +
+
+*/
+
+
+.gallery {
+	border-radius: var(--border-radius);
+	box-shadow: rgba(0, 0, 0, .05) 0 0 0 1px;
+	height: 0;
+	overflow: hidden;
+	padding-top: 85%;
+	position: relative;
+	transform: translate3d(0, 0, 0);
+	-webkit-user-select: none;
+	user-select: none;
+	z-index: 1
+}
+
+.gallery iframe, .gallery img, .gallery source, .gallery video {
+	height: 100%;
+	object-fit: cover;
+	width: 100%
+}
+
+.gallery-item {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	background: rgba(0, 0, 0, .05);
+	flex-shrink: 0;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+	transform: translate3d(0, 0, 0);
+	transition-property: transform;
+	width: 100%
+}
+.gallery-placeholder {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: -1
+}
+.gallery-wrapper {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	bottom: 0;
+	display: flex;
+	flex-wrap: nowrap;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transform: translate3d(0, 0, 0);
+	transition-property: transform;
+	will-change: transform;
+	z-index: 1
+}
+
+.gallery-item:before {
+	animation: loader .5s linear infinite;
+	border-top: rgba(0, 0, 0, 0.4) 2px solid;
+	border-right: transparent 2px solid;
+	border-radius: 50%;
+	content: "";
+	height: 2rem;
+	left: 50%;
+	margin: -1rem 0 0 -1rem;
+	position: absolute;
+	top: 50%;
+	width: 2rem;
+	z-index: -1;
+}
+
+@keyframes loader {
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.gallery-item .caption {
+	bottom: 3rem;
+	color: rgba(255, 255, 255, 1);
+	font-weight: 500;
+	left: 1rem;
+	position: absolute;
+	right: 1rem;
+	text-align: center;
+	text-shadow: rgba(0, 0, 0, 0.2) 0 0.25rem 0.25rem;
+}
+
+.gallery-navigation {
+	display: none;
+}
+
+.gallery-navigation > div {
+	background: rgba(255, 255, 255, 1);
+	border-radius: 50%;
+	box-shadow: rgba(0,0,0,0.05) 0 0 0 1px, rgba(0, 0, 0, 0.1) 0 1rem 1rem -0.5rem, rgba(0, 0, 0, 0.05) 0 0 0.5rem;
+	cursor: pointer;
+	height: 3rem;
+	position: relative;
+	transition: all 0.3s;
+	width: 3rem;
+}
+
+.gallery-navigation > div:before {
+	border: rgba(0, 0, 0, 1) solid;
+	border-width: 0 1px 1px 0;
+	content: "";
+	display: inline-block;
+	left: 50%;
+	padding: 6px;
+	position: absolute;
+	top: 50%;
+}
+
+.gallery-navigation > div:focus {
+	outline: none;
+}
+
+.gallery-navigation .prev:before {
+	transform: translate(-30%,-50%) rotate(135deg);
+}
+
+.gallery-navigation .next:before {
+	transform: translate(-70%,-50%) rotate(-45deg);
+}
+
+
+.gallery-pagination {
+	background: rgba(0, 0, 0, 0.1);
+	border-radius: 1rem;
+	bottom: 1rem;
+	left: 50%;
+	line-height: 0;
+	padding: 0.5rem;
+	position: absolute;
+	text-align: center;
+	transform: translateX(-50%);
+	user-select: none;
+	z-index: 5;
+	transition: opacity 0.3s ease;
+	opacity: 1;
+}
+
+.gallery-pagination.visible {
+	opacity: 1;
+}
+
+.project.visible .gallery-pagination {
+}
+
+.gallery-pagination .bullet {
+	background: rgba(255, 255, 255, 1);
+	border-radius: 50%;
+	display: inline-block;
+	height: 0.5rem;
+	margin: 0 0.25rem;
+	opacity: 0.5;
+	transition: opacity 0.4s;
+	width: 0.5rem;
+}
+
+.gallery-pagination .bullet.active {
+	opacity: 1;
+}
+
+.gallery-placeholder img, .gallery-placeholder source {
+	transform: scale(1.2);
+}
+
+.gallery-placeholder.hidden {
+	opacity: 0;
+}
