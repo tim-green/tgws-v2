@@ -1,0 +1,42 @@
+/*
+
+  Sticky Menu
+  +
+
+*/
+
+
+#sticky-menu {
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(0, 0, 0, 0.6);
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: -10vh;
+	transition: all 0.4s ease;
+	z-index: 99;
+}
+
+#sticky-menu.show {
+	top: 0;
+}
+
+#sticky-menu .wrapper {
+	align-items: center;
+	display: flex;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
+}
+
+#sticky-menu ul {
+	flex: 1;
+	text-align: right;
+}
+
+#sticky-menu li {
+	display: inline-block;
+}
+
+#sticky-menu a {
+	/*color: rgba(0, 0, 0, 1);*/
+}
