@@ -8,8 +8,8 @@
 /*
  ==== modules ====
 */
-
 @import "modules/root";
+@import "modules/media-queries";
 @import "modules/font-face";
 @import "modules/mixins";
 @import "modules/variables";
@@ -56,4 +56,3 @@
 */
 
 @import "pages/pages";
-@import "modules/media-queries";
