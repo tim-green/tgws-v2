@@ -30,4 +30,13 @@
 .icon.close {
 	transform: rotate(45deg);
 }
+
+
+.icon.question-mark {
+	transform: rotate(0deg);
+
+  &:hover{
+    color: $offwhite;
+    transition: color ease-in .8s;
+  }
 }
