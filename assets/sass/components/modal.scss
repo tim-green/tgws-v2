@@ -90,6 +90,12 @@
 	top: var(--padding);
 	z-index: 150;
 	padding: 0;
+	
+	// &:hover{
+	// border: $black 1px solid;
+	// transition: ease-in .5s;
+	// background: transparent;
+	// }
 }
 
 #modal-profile-close .icon {
