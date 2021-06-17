@@ -16,10 +16,6 @@
   <link rel="manifest" href="/assets/favicon/site.webmanifest">
   <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#050505">
   <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
-  <meta name="apple-mobile-web-app-title" content="Pietro">
-  <meta name="application-name" content="Pietro">
-  <meta name="apple-mobile-web-app-title" content="Tim Green">
-  <meta name="application-name" content="Tim Green">
   <meta name="apple-mobile-web-app-title" content="Tim Green">
   <meta name="application-name" content="Tim Green">
   <meta name="msapplication-TileColor" content="#11998e">
