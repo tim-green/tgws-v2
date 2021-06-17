@@ -18,6 +18,8 @@
   <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
   <meta name="apple-mobile-web-app-title" content="Pietro">
   <meta name="application-name" content="Pietro">
+  <meta name="apple-mobile-web-app-title" content="Tim Green">
+  <meta name="application-name" content="Tim Green">
   <meta name="msapplication-TileColor" content="#11998e">
   <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
 
