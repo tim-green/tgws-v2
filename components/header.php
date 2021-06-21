@@ -20,9 +20,4 @@
 				</p>
 			</div>
 		</div>
-		<?php /*<div class="wireframe full-viewport">
-			<div>
-				
-			</div>
-		</div> */?> 
 	</header>
