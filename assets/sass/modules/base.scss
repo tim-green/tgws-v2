@@ -214,7 +214,7 @@ stop-color: var(--gradient-start);
 
 
 
-#contacts {
+#contacts, #exp{
 	margin: var(--padding) 0;
 
 	a {
@@ -237,7 +237,7 @@ stop-color: var(--gradient-start);
 	}
 }
 
-#contacts ul {
+#contacts ul, #exp ul {
 	display: grid;
 	gap: 1rem
 }
