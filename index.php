@@ -30,6 +30,7 @@
   <link rel="preload" href="assets/build/app.min.css" as="style">
   <!-- Style for App -->
   <link rel="stylesheet" href="assets/build/app.min.css">
+<body id="tgws">
 
 <!-- CSS -->
 
