@@ -32,6 +32,7 @@ module.exports = function(grunt) {
             'assets/js/plugins/modal.js',
             'assets/js/vendor/swiper.js',
             'assets/js/plugins/swiper.init.js',
+            'assets/js/plugins/back-to-top.js',
           ]
         },
         options: {
@@ -65,6 +66,7 @@ module.exports = function(grunt) {
           'assets/js/plugins/modal.js',
           'assets/js/vendor/swiper.js',
           'assets/js/plugins/swiper.init.js',
+          'assets/js/plugins/back-to-top.js',
         ],
         tasks: ['uglify']
       },
