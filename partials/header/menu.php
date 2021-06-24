@@ -41,7 +41,7 @@
 			</li>
             
             <li>
-                <a class="button button-rounded button-shadow smooth-scroll" href="#selected-works">
+                <a class="button button-rounded button-shadow smooth-scroll" href="#blog">
                     <span class="label">Blog</span>
                     <span class="icon">
                     <i class="fal fa-arrow-down neon-gradient"></i>
