@@ -478,10 +478,17 @@
 	}
   
 	#contacts li {
+	
+	#exp ul {
+	  grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	#contacts li,#exp li{
 	  display: flex;
 	}
   
 	#contacts li a {
+	#contacts li a, #exp li a{
 	  flex: 1;
 	}
   
@@ -817,6 +824,7 @@
 	}
   
 	#contacts ul {
+	#contacts ul, #exp ul{
 	  display: inline-grid;
 	}
   
@@ -960,6 +968,7 @@
 	}
   
 	#contacts span {
+	#contacts span, #exp span{
 	  font-size: 0.9rem;
 	}
   
