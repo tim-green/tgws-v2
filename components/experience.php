@@ -3,40 +3,29 @@
 		<span>Experience</span>
 	</p>
 		
-	<div class="content large-paragraph">
-    <nav id="exp">
+	<div class="content" id="exp">
 				<h2 class="visually-hidden hidden">Experience</h2>
-					<ul>
-						<li>
-							<a class="button" href="#">
-								<span> 
-								Freelance</br>
-								2019 - Current  
-								<strong>Developer</strong>
-								</span>
-							</a>
-						</li>
 
-						<li>
-							<a class="button" href="#">
-								<span> 
-								2B Advertising and Design</br>
-								2011-2018  
-								<strong>Web Developer</strong>
-								</span>
-							</a>
-						</li>
-						<li>
-							<a class="button" href="#">
-								<span> 
-								Roof Rack City Canberra</br>
-								2008-2010  
-								<strong>Website Developer</strong>
-								</span>
-							</a>
-						</li>
-					</ul>
-				</nav>
+				<div class="grid max-3 expandable">
+				<div>
+					<h4 class="small-heading">Freelance Developer</h4>
+					<div class="content">
+						<p>2019 - Current<br/>Developer</p>
+					</div>
+				</div>
+				<div>
+				<h4 class="small-heading">2B Advertising and Design</h4>
+					<div class="content">
+						<p>2011 - 2018  <br/>Web Developer</p>
+					</div>
+				</div>
+				<div>
+				<h4 class="small-heading">Roof Rack City Canberra</h4>
+					<div class="content">
+						<p>2008-2010 <br/>Web Developer</p>
+					</div>
+				</div>
+			</div>
 	</div>
 	
 </div>
