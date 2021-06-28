@@ -472,12 +472,10 @@
 	  padding: 38% 0 0;
 	}
   
-	#contacts ul {
+	#contacts ul{
 	  grid-template-columns: repeat(3, 1fr);
 	  align-items: stretch;
 	}
-  
-	#contacts li {
 	
 	#exp ul {
 	  grid-template-columns: 1fr 1fr 1fr;
