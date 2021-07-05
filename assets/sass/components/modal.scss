@@ -57,7 +57,7 @@
 .modal-content .wrapper {
 	background: rgba(20, 20, 20, 1);
 	opacity: 0;
-	padding: var(--padding) 0;
+	padding: var(--padding);
 	position: relative;
 	transform: translateY(5vh);
 	z-index: 102;
