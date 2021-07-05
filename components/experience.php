@@ -28,4 +28,6 @@
 			</div>
 		</div>
 	</div>
+	<!-- notables -->
+	<?php include_once( 'notables.php'); ?>
 </div>
