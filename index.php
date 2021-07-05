@@ -34,6 +34,8 @@
   <!-- Style for App -->
   <link rel="stylesheet" href="assets/build/app.min.css">
 <body id="tgws">
+    <!-- progress bar -->
+    <?php include_once('components/progress-bar.php');?>
 
 <!-- CSS -->
 
