@@ -91,7 +91,7 @@
 	#cookie-button {
 		margin: 0 0 0 1.5rem
 	}
-	.grid.max-4 {
+	.grid.max-5, .grid.max-4, .grid.max-3 {
 		gap: var(--padding);
 		grid-template-columns: repeat(2, 1fr)
 	}
@@ -120,7 +120,7 @@
 		display: inline-block;
 		margin: 0 1rem 0 0
 	}
-	.grid.max-4 {
+	.grid.max-5, .grid.max-4,.grid.max-3 {
 		gap: calc(var(--padding)/ 2)
 	}
 }
@@ -180,8 +180,14 @@
 	.gallery {
 		padding-top: 75%
 	}
+	.grid.max-3 {
+		grid-template-columns: repeat(3, 1fr)
+	}
 	.grid.max-4 {
 		grid-template-columns: repeat(4, 1fr)
+	}
+	.grid.max-5 {
+		grid-template-columns: repeat(5, 1fr)
 	}
 	.project-overview {
 		width: 25%
