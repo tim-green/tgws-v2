@@ -59,8 +59,6 @@
 	</div>
 <script type="text/javascript" src="assets/build/app.min.js"></script>
 
-<!-- Livereload -->
-<script src="http://localhost:35729/livereload.js"></script>
 
     <main id="main">
     </main>
