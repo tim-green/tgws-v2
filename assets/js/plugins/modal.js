@@ -5,7 +5,7 @@ const profileModalContent = document.getElementById('modal-content');
 
 profileModalButton.addEventListener('click', function() {
 		if (!profileModal.classList.contains('loaded')) {
-			fetch('/work/work.php').then(function (response) {
+			fetch('components/modal-content.php').then(function (response) {
 				// The API call was successful!
 				return response.text();
 				// console.log('The API call was successful');
