@@ -73,5 +73,6 @@
 <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
 <!-- back to top -->
 <?php include_once('includes/back-to-top.php'); ?>
+    <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
 </body>
 </html>
