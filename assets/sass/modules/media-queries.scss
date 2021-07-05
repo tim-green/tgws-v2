@@ -491,7 +491,6 @@
 	  display: flex;
 	}
   
-	#contacts li a {
 	#contacts li a, #exp li a{
 	  flex: 1;
 	}
@@ -827,7 +826,6 @@
 	  transform: scale(1.2);
 	}
   
-	#contacts ul {
 	#contacts ul, #exp ul{
 	  display: inline-grid;
 	}
@@ -971,7 +969,6 @@
 	  width: auto;
 	}
   
-	#contacts span {
 	#contacts span, #exp span{
 	  font-size: 0.9rem;
 	}
