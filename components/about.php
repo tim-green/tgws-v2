@@ -13,6 +13,16 @@
 
 					<p>Every week I use a social media management tool called <span class="skill">HootSuite</span> where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called SomeWhat Creative. <span id="bio-skills"></span></p>
 					</div>
+
+
+					<h1 class="large-heading neon-gradient second-level-heading">What I'm currently learning</span>
+                    </h1>
+					<!-- large-paragraph -->
+					<div class="content">
+						<p>
+                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here I'm also learning Adobe XD so that I can improve my UI/UX design and prototyping. 
+						</p>
+					</div>
 				</div>
 			</div>
 		</div>
