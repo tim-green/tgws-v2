@@ -243,9 +243,10 @@ stop-color: var(--gradient-start);
 		color: $white;
 	}
 	.content{
-	color:  rgba(255,255,255,0.6);
-	font-size: var(--medium-paragraph);
-}
+		color:  rgba(255,255,255,0.6);
+		font-size: var(--medium-paragraph);
+	}
+
 	.yet-exp{
 		font-size: var(--small-plus-paragraph);
 	}
