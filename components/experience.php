@@ -4,7 +4,7 @@
 	</h3>
 	<div class="content" id="exp">
 		<h2 class="visually-hidden hidden">Experience</h2>
-		<div class="grid max-3 expandable">
+		<div class="grid max-3">
 			<div>
 				<h4 class="small-heading">Freelance Developer</h4>
 				<div class="content">
