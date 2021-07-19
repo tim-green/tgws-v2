@@ -63,7 +63,12 @@
 
 
     <main id="main">
+    <?php 
+        
         include_once('components/work.php');
+        include_once('components/blog.php');
+    ?>
+
     </main>
     <aside id="profile" class="full-viewport">
     </aside>
