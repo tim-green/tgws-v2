@@ -42,6 +42,7 @@
 <!-- JS -->
 <body class="fonts-enabled page-loaded">
     <!-- planned out components will start here -->
+    include_once('components/selected-work.php');
 
     <!-- preloader -->
     <!-- 
