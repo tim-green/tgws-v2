@@ -1,0 +1,1 @@
+<?php // silence is golden, taken this from WP
