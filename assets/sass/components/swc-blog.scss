@@ -23,4 +23,11 @@
 	  transform: translateY(-0.5rem);
       box-shadow: none !important;
     }
+
+    &:after{
+        margin-left: .8rem;
+        font-family: "Font Awesome 5 Pro"; 
+        font-weight: 300; 
+        content: "\f061";
+    }
 }
