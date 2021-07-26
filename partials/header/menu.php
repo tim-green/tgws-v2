@@ -32,7 +32,7 @@
 
 
             <li>
-                <a class="button button-rounded button-shadow smooth-scroll" href="#notables">
+                <a class="button button-rounded button-shadow smooth-scroll" href="#notable">
                     <span class="label">Notables</span>
                     <span class="icon">
                     <i class="fal fa-arrow-down neon-gradient"></i>
