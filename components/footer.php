@@ -1,4 +1,8 @@
 <div class="wrapper" id="contact">
+	<p class="display-heading neon-gradient" data-text="Thanks for visiting.&#xa;Let&rsquo;s keep in touch.">
+		<span>Thanks for visiting.<br>Let&rsquo;s keep in touch.</span>
+	</p>
+		
 	<div class="content large-paragraph">
 		<?php 
 			/*include footer contact info*/ 
