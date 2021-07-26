@@ -1,4 +1,4 @@
-<article id="id-of-project" class="project">
+<article id="automotiv" class="project">
 	<div class="wrapper">
 		<header class="project-overview expandable">
 			<div>
