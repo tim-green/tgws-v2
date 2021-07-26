@@ -1,7 +1,6 @@
 <nav id="menu">
 	<h2 class="visually-hidden">Skip to content</h2>
 		<ul>
-
             <li>
                 <a class="button button-rounded button-shadow smooth-scroll" href="#bio-skills">
                     <span class="label">Bio + Skills</span>
@@ -56,7 +55,5 @@
                     </span>
                 </a>
 			</li>
-
-            
         </ul>
 </nav>
