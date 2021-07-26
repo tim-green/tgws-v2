@@ -2,7 +2,7 @@
 <div class="wrapper" id="contact">
 	<div class="content large-paragraph">
 		<?php 
-			/*include social and code networks*/ 
+			/*include footer contact info*/ 
 			include_once('partials/footer/foot-contacts.php'); 
 			
 			/*include social and code networks*/ 
