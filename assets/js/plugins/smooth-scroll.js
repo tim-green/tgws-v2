@@ -116,7 +116,7 @@ anchors.forEach(function(trigger, index) {
             behavior: 'smooth'
         });
     }
-});});
+});
 
 //Scroll to top
 var scrollToTopBtn = document.getElementById("scrollToTopBtn")
