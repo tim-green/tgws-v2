@@ -26,7 +26,7 @@
             <?php 
             echo $post['title']['rendered']; ?>
 		    
-            <small>Posted On: <?php echo date('F j, Y', strtotime($post['date'])); ?></small>
+            
         </a>
         </h4>
         <?php 
