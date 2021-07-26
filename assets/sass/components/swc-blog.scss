@@ -9,3 +9,9 @@
     @extend .button,.primary;
     @extend .button-rounded;
     @extend #modal-profile-button;
+
+    &:hover{
+	  transform: translateY(-0.5rem);
+      box-shadow: none !important;
+    }
+}
