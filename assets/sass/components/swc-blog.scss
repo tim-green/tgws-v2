@@ -5,6 +5,11 @@
 
 */
 
+//hide sharedaddy on TGWS
+.sharedaddy{
+    display: none;
+}
+
 .more-link{
     @extend .button,.primary;
     @extend .button-rounded;
