@@ -1,4 +1,3 @@
-<div class="wrapper">
 <div class="wrapper" id="contact">
 	<div class="content large-paragraph">
 		<?php 
@@ -12,4 +11,5 @@
 	<!-- back to top -->
 	<?php include_once('includes/back-to-top.php'); ?>
 	<p class="footnote">Copyright &copy; 2008-<?php echo date("Y"); ?> TimGreen.ws</p>
-</div></div>
+	
+</div>
