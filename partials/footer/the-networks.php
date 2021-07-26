@@ -23,4 +23,7 @@
 						<span class="visually-hidden">Facebook</span></span></a>
 						</li>
 					</ul>
-				</nav>
+				</nav>		<li><a class="button button-icon" rel="external noopener" href="https://www.timgreen.ws/tim-green-resume" target="_blank" title="Tim Green's Resume in PDF Form"><span>
+						<i class="fal fa-file-pdf neon-gradient"></i>	
+						<span class="visually-hidden">PDF</span></span></a>
+		</li>
