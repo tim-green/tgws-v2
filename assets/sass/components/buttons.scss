@@ -80,3 +80,13 @@
         padding: 0;
     }
 }
+
+//js-enabled (modal, archive)
+.js-enabled #modal-profile-button,
+.js-enabled #archive-work-button  {
+	align-items: center;
+	display: flex;
+}
+
+
+}
