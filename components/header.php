@@ -8,7 +8,7 @@
 								<!-- svg -->
 							</div>
 							<!-- title -->
-							<h1 class="display-heading">Hello, I&rsquo;m Tim<span class="visually-hidden"> Green</span>. <br><span class="neon-gradient">I code experiences to connect brands with people.</span></h1>
+							<h1 class="display-heading">Hello, I&rsquo;m Tim<span class="visually-hidden"> Green</span>. <br><span class="neon-gradient">I code experiences to connect brands <br>with people.</span></h1>
 						</div>
 
 						<!-- main site menu -->
