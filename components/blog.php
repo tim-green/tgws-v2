@@ -19,21 +19,17 @@
         { 
         ?>
 
-        <div class="content">
-            <h4 class="medium-heading second-level-heading">
-            <a href="<?php echo $post['link']; ?>" class="external-linkBlog" rel="follow" target="_blank">
-		    
-            <?php 
-            echo $post['title']['rendered']; ?>
-		    
-            
-        </a>
-        </h4>
-        <?php 
-            echo $post[ 'excerpt'][ 'rendered']; 
-        ?>
+            <div class="content">
+                <h4 class="medium-heading second-level-heading">
+                <a href="<?php echo $post['link']; ?>" class="external-linkBlog" rel="follow" target="_blank">
+                <?php echo $post['title']['rendered']; ?>  
+                </a>
+                </h4>
+                <?php 
+                    echo $post['excerpt']['rendered']; 
+                ?>
             </div>
-        <?php } ?>
+             <?php } ?>
         </div>
 	</div>
 </header>
