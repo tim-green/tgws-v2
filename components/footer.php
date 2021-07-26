@@ -9,5 +9,7 @@
 			include_once('partials/footer/the-networks.php');
 		?>
 	</div>
+	<!-- back to top -->
+	<?php include_once('includes/back-to-top.php'); ?>
 	<p class="footnote">Copyright &copy; 2008-<?php echo date("Y"); ?> TimGreen.ws</p>
 </div></div>
