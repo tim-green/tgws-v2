@@ -21,17 +21,20 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="http://tgwork.timgreen.xyz/slides/atsb/atsb-1.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="https://cdn.timgreen.ws/slides/atsb-slide-1.jpg" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
-					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="http://tgwork.timgreen.xyz/slides/atsb/atsb-2.jpg" width="800" height="600" alt="Menu">
+				<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/atsb-slide-1.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="http://tgwork.timgreen.xyz/slides/atsb/atsb-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/atsb-slide-2.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="http://tgwork.timgreen.xyz/slides/atsb/atsb-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/atsb-slide-3.jpg" width="800" height="600" alt="Menu">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/atsb-slide-4.jpg" width="800" height="600" alt="Menu">
 					</div>
 				</div>
 			</div>

@@ -21,17 +21,17 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="http://cdn.timgreen.xyz/tgv2/gamez.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="https://cdn.timgreen.ws/slides/rsl-slide-1.jpg" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="http://cdn.timgreen.xyz/matchbox/multicolored wallpaper.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-1.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="http://cdn.timgreen.xyz/matchbox/video-bg.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-2.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="http://cdn.timgreen.xyz/tgv2/gamez.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-3.jpg" width="800" height="600" alt="Menu">
 					</div>
 				</div>
 			</div>
