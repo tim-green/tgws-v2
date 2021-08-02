@@ -1,4 +1,4 @@
-<header id="blog" class="full-viewport">
+<header id="blog" class="purple-gradient full-viewport">
 	<div class="wrapper">
         <div>
         <h2 class="large-heading second-level-heading" data-text="Latest post from SomeWhat Creative">
