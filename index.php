@@ -6,9 +6,7 @@
   <meta name="robots" content="index,follow" />
   <meta name="theme-color" content="#11998e">
   <meta name="author" content="Tim Green">
-  
   <title>Tim Green // Front End Developer in Canberra</title>
-  
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
@@ -26,14 +24,10 @@
 
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-
-</footer>
-<!-- / Footer -->
   <!-- Preload -->
   <link rel="preload" href="assets/build/app.min.css" as="style">
   <!-- Style for App -->
   <link rel="stylesheet" href="assets/build/app.min.css">
-<body id="tgws">
   <!-- Tim Green -->
 </head>
 <body id="theTop">
@@ -43,31 +37,11 @@
     <!-- insert of header of site -->
     <?php include_once('components/header.php');?>
 
-<!-- JS -->
-<body class="fonts-enabled page-loaded">
-    <!-- planned out components will start here -->
-    include_once('components/selected-work.php');
-    include_once('components/experience.php');
     <aside id="profile" class="full-viewport">
         <!-- aside #profile - about bio+skills-->
          <?php include_once('components/about.php');?>
     </aside>
 
-    <!-- preloader -->
-    <!-- 
-        header
-        inside header will be the TG hero text/intro
-        navigation include partial/navigation
-     -->
-    <!-- 
-        main
-        inside main will contain selected work/work
-        about us
-     -->
-    <div id="progress-bar">
-		<div id="progress-bar-indicator"></div>
-	</div>
-<script type="text/javascript" src="assets/build/app.min.js"></script>
 
     <?php 
     // work + past work
@@ -92,11 +66,6 @@
         <!-- aside #footer - footer -->
         <?php include_once('components/footer.php');?>
     </footer>
-<!-- js -->
-<script src="assets/build/app.min.js"></script>
-<script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
-<!-- back to top -->
-<?php include_once('includes/back-to-top.php'); ?>
 
     <!-- js -->
     <script src="assets/build/app.min.js"></script>
