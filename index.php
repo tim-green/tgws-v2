@@ -66,19 +66,24 @@
 	</div>
 <script type="text/javascript" src="assets/build/app.min.js"></script>
 
+    <?php 
     // work + past work
     include_once('components/work.php');
 
+    //commented out selected work
+    //include_once('components/selected-work.php');
+    
+    include_once('components/experience.php');
+    ?>
+    
     <main id="main">
+        <!-- inside this #main contains selected work & work -->
     <?php 
-        
         include_once('components/work.php');
         include_once('components/blog.php');
     ?>
-
     </main>
-    <aside id="profile" class="full-viewport">
-    </aside>
+
     <footer id="footer" class="full-viewport vertically-centered">
     </footer>
 <!-- js -->
