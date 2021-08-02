@@ -45,6 +45,10 @@
     <!-- planned out components will start here -->
     include_once('components/selected-work.php');
     include_once('components/experience.php');
+    <aside id="profile" class="full-viewport">
+        <!-- aside #profile - about bio+skills-->
+         <?php include_once('components/about.php');?>
+    </aside>
 
     <!-- preloader -->
     <!-- 
