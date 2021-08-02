@@ -66,6 +66,8 @@
 	</div>
 <script type="text/javascript" src="assets/build/app.min.js"></script>
 
+    // work + past work
+    include_once('components/work.php');
 
     <main id="main">
     <?php 
