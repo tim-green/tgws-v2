@@ -114,7 +114,7 @@
 		padding: calc(var(--padding) * 1.5) calc(var(--padding) + env(safe-area-inset-right)) calc(var(--padding) * 1.5) calc(var(--padding) + env(safe-area-inset-left))
 	}
 	#menu {
-		margin: 3rem 0 0
+		margin: 3rem 0 0;
 	}
 	#menu li {
 		display: inline-block;
