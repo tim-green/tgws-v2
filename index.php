@@ -84,7 +84,10 @@
     ?>
     </main>
 
+    <!-- footer -->
     <footer id="footer" class="full-viewport vertically-centered">
+        <!-- aside #footer - footer -->
+        <?php include_once('components/footer.php');?>
     </footer>
 <!-- js -->
 <script src="assets/build/app.min.js"></script>
