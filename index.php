@@ -37,7 +37,8 @@
     <!-- progress bar -->
     <?php include_once('components/progress-bar.php');?>
 
-<!-- CSS -->
+    <!-- insert of header of site -->
+    <?php include_once('components/header.php');?>
 
 <!-- JS -->
 <body class="fonts-enabled page-loaded">
