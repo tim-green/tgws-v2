@@ -10,33 +10,28 @@
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
-					<dd>RSL National</dd>
+					<dd>Client Name</dd>
 					<dt>Agency</dt>
-					<dd>2B Advertising & Design</dd>
+					<dd>Freelance</dd>
 					<dt>Year</dt>
-					<dd>2017</dd>
-					<dt>Visit</dt>
-					<dd><a href="//rslnational.org" target="_blank" rel="nofollow">View Website</a></dd>
+					<dd>2222</dd>
 				</dl>
 			</div>
 		</header>
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-rsl.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="https://cdn.timgreen.ws/slides/rsl-slide-1.jpg" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-1.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-2.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-3.jpg" width="800" height="600" alt="Menu">
-					</div>
-					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/rsl-slide-3.jpg" width="800" height="600" alt="Menu">
 					</div>
 				</div>
 			</div>

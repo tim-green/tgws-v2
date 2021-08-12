@@ -12,33 +12,28 @@
 					<dt>Client</dt>
 					<dd>SomeWhat Creative</dd>
 					<dt>Agency</dt>
-					<dd>Personal Blog</dd>
+					<dd>Personal SIte</dd>
 					<dt>Year</dt>
-					<dd>2017</dd>
+					<dd>2019</dd>
 					<dt>Visit</dt>
 					<dd><a href="//somewhatcreative.net" target="_blank">View Website</a></dd>
-					<!-- <dt>Git Repo</dt>
-					<dd><a href="//github.com/tim-green/swc-wp-theme" target="_blank">View Repo</a></dd> -->
 				</dl>
 			</div>
 		</header>
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-somewhatcreative.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="https://cdn.timgreen.ws/slides/somewhat-creative-slide-1.jpg" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/somewhat-creative-slide-1.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/somewhat-creative-slide-2.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-3.jpg" width="800" height="600" alt="Menu">
-					</div>
-					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/somewhat-creative-slide-3.jpg" width="800" height="600" alt="Menu">
 					</div>
 				</div>
 			</div>

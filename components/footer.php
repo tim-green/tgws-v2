@@ -14,6 +14,6 @@
 	</div>
 	<!-- back to top -->
 	<?php include_once('includes/back-to-top.php'); ?>
-	<p class="footnote">Copyright &copy; 2008-<?php echo date("Y"); ?> TimGreen.ws | Pssst. If you really want to take a look at some of my older past work it's hidden in the <a href="#">archives here</a></p>
+	<p class="footnote">Copyright &copy; 2008-<?php echo date("Y"); ?> TimGreen.ws | Pssst. If you really want to take a look at some of my older past work it's hidden in the archives here</p>
 	
 </div>

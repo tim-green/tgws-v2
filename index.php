@@ -29,7 +29,6 @@
   <!-- Style for App -->
   <link rel="stylesheet" href="assets/build/app.min.css">
   <!-- Tim Green -->
-  <?php include_once('config/preload-images.php');?>
 </head>
 <body id="theTop">
     <!-- progress bar -->
