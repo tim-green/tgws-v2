@@ -45,6 +45,31 @@
                         </p>
 					</div>
 					
+					
+					<p>
+						<button id="modal-profile-button" class="button button-rounded primary"><span class="label"><span>View</span> What I'm Doing Now</span>
+						<span class="icon question-mark">
+						<i class="fal fa-question-circle"></i>
+							</span></button>
+					</p>
+
+				</div>
+			</div>
+
+
+
+			<div id="modal-profile" class="modal">
+				<div id="modal-content" class="modal-content">
+					<div class="wrapper">
+						<button id="modal-profile-close" class="button button-rounded">
+							<span class="icon close neon-gradient">
+							<i class="fal fa-plus"></i>
+						</span>
+						<span class="visually-hidden">Close</span></button>
+
+						<!-- insert modal content -->
+						
+					</div>
 				</div>
 			</div>
 		</div>

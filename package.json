@@ -23,6 +23,6 @@
     "grunt-contrib-watch": "~1.1.0"
   },
   "dependencies": {
-    "swiper": "^6.8.0"
+    "swiper": "^6.8.1"
   }
 }
