@@ -23,20 +23,20 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-rsl.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-rsl.webp" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-1.webp" width="800" height="600" alt="Home page design of the RSL National website in 2017">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-2.webp" width="800" height="600" alt="3 different row components that you'll find on the website">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-3.webp" width="800" height="600" alt="Donation page design of the RSL National website in 2017">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/rsl-slide-4.webp" width="800" height="600" alt="Responsive views of the RSL national website">
 					</div>
 				</div>
 			</div>

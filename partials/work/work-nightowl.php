@@ -25,23 +25,23 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-nightowl.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-nightowl.webp" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-1.webp" width="800" height="600" alt="NightOwl home page">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-2.webp" width="800" height="600" alt="NightOwl alerts components">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-3.webp" width="800" height="600" alt="NightOwl charts components">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-4.webp" width="800" height="600" alt="NightOwl profile page">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-5.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-5.webp" width="800" height="600" alt="Responsive views of Night Owl Dashboard">
 					</div>
 				</div>
 			</div>

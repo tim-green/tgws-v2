@@ -25,20 +25,20 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-somewhatcreative.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-somewhatcreative.webp" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-1.webp" width="800" height="600" alt="Front page of the blog featuring latest posts">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-2.webp" width="800" height="600" alt="Specific post page">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-3.webp" width="800" height="600" alt="About us page of SomeWhat Creative">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/somewhatcreative-slide-4.webp" width="800" height="600" alt="SomeWhatCreative responsive views">
 					</div>
 				</div>
 			</div>

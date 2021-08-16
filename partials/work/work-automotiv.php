@@ -30,27 +30,27 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-automotiv.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-automotiv.webp" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-1.webp" width="800" height="600" alt="Automotiv Home page featuring a Slider">
 					</div>
 					<div class="gallery-item  dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-2.jpg
-" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-2.webp
+" width="800" height="600" alt="Card designs of the Automotiv site">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-3.jpg
-" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-3.webp
+" width="800" height="600" alt="Store front design view">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-4.jpg
-" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-4.webp
+" width="800" height="600" alt="Contact page with Gravity Form and Mapbox Map">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-5.jpg
-" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/automotiv-slide-5.webp
+" width="800" height="600" alt="Responsive views on various pages in the Automotiv theme">
 					</div>
 				</div>
 			</div>

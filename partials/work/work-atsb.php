@@ -23,20 +23,20 @@
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-atsb.jpg" width="800" height="600" alt="I'm Loading ATSB Images...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-atsb.webp" width="800" height="600" alt="I'm Loading ATSB Images...">
 				</div>
 				<div class="gallery-wrapper">
 				<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-1.webp" width="800" height="600" alt="Cover of the Annual Report for ATSB">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-2.webp" width="800" height="600" alt="Chief Commissioner's Review 2016-17 you'll find in Section 1">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-3.webp" width="800" height="600" alt="Chief Commissioner's Page with image of the intro video">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/atsb-slide-4.webp" width="800" height="600" alt="Various view of the ATSB report pages in responsive view">
 					</div>
 					
 				</div>
