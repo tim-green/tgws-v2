@@ -20,9 +20,10 @@
     "grunt-contrib-jshint": "~3.0.0",
     "grunt-contrib-sass": "~2.0.0",
     "grunt-contrib-uglify": "~5.0.1",
-    "grunt-contrib-watch": "~1.1.0"
+    "grunt-contrib-watch": "~1.1.0",
+    "grunt-cwebp": "^3.0.3"
   },
   "dependencies": {
-    "swiper": "^6.8.0"
+    "swiper": "^6.8.1"
   }
 }

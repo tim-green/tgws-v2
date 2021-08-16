@@ -2,6 +2,21 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
+
+    cwebp: {
+      dynamic: {
+        options: {
+          q: 50
+        },
+        files: [{
+          expand: true,
+          cwd: 'assets/images/',
+          src: ['**/*.{png,jpg,gif}'],
+          dest: 'assets/images/'
+        }]
+      }
+    },
+    
     sass: {
       dist: {
         options: {
@@ -89,7 +104,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-sass');
-
+  grunt.loadNpmTasks('grunt-cwebp');
   // Register tasks
   grunt.registerTask('default', [
     'clean',
