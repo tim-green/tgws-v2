@@ -5,8 +5,9 @@
 				<p class="overline">HTML Report</p>
 				<h3 class="large-heading">ATSB Annual Report 2016-17</h3>
 				<div class="content">
-					<p>Dummy text is coming here now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+					<p>This is the an HTML conversion of the printed Annual Report for 2016-17 while working at 2B Advertising and Design. </p>
+					
+					<p>This micro site been built with HTML, CSS and jQuery.</p>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
