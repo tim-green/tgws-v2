@@ -5,8 +5,7 @@
 				<p class="overline">Website</p>
 				<h3 class="large-heading">SomeWhat Creative</h3>
 				<div class="content">
-					<p>Dummy text is coming here now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+					<p>This is the WordPress theme for my web design blog called SomeWhat Creative. This theme like many of the themes that I create is simplistic.</p> <p>The theme also uses the SiteOrigin Widgets Bundle so I can use the Social Media Buttons on the sidebar of the theme.</p>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
