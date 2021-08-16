@@ -10,31 +10,38 @@
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
-					<dd>Client Name</dd>
+					<dd>Personal Concept</dd>
 					<dt>Agency</dt>
 					<dd>Freelance</dd>
 					<dt>Year</dt>
-					<dd>2222</dd>
+					<dd>2019</dd>
+					<dt>Visit</dt>
+					<dd><a href="//night-owl.timgreen.ws/" target="_blank">View Website</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="//github.com/tim-green/night-owl-dashboard/" target="_blank">View Repo</a></dd>
 				</dl>
 			</div>
 		</header>
 		<div class="project-content">
 			<div class="gallery">
 				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="https://cdn.timgreen.ws/slides/nightowl-slide-1.jpg" width="800" height="600" alt="Loading Image...">
+					<img class="lazy-inline" data-src="assets/images/slides/preloaders/preloader-nightowl.jpg" width="800" height="600" alt="Loading Image...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/nightowl-slide-1.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-1.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/nightowl-slide-2.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-2.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/nightowl-slide-3.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-3.jpg" width="800" height="600" alt="Menu">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="https://cdn.timgreen.ws/slides/nightowl-slide-4.jpg" width="800" height="600" alt="Menu">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-4.jpg" width="800" height="600" alt="Menu">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="assets/images/slides/nightowl-slide-5.jpg" width="800" height="600" alt="Menu">
 					</div>
 				</div>
 			</div>
