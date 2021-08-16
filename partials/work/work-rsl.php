@@ -5,8 +5,8 @@
 				<p class="overline">Website</p>
 				<h3 class="large-heading">RSL National Office</h3>
 				<div class="content">
-					<p>Dummy text is coming here now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+					<p>In 2017 Returned and Services League of Australia National needed a re-design of their WordPress website.</p><p>I built this WordPress theme. Primary goal was to build a theme that is simplistic and easy to consume their content.</p> <p> For ease of managing content I used the Fusion Page Builder plugin which allowed RSL to manage their own content updates. </p> 
+</p>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
