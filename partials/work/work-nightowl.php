@@ -5,8 +5,9 @@
 				<p class="overline">UI Design</p>
 				<h3 class="large-heading">Night Owl</h3>
 				<div class="content">
-					<p>Dummy text is coming here now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+					<p>In the late 2019 I was getting interested in User Interfaces so I've built this full admin dashboard  called Night Owl. Night Owl uses Bootstrap 4 CSS Framework has has been based on a simple and modular design. 
+					</p>
+					<p>It also comes with lots of reusable and beautiful UI elements, widgets. I'm don't call myself a UI or UX expert by all means I do however when I get the time I like to take some of that time to read and learn about UI and UX. </p>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
