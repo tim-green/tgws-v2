@@ -5,8 +5,9 @@
 				<p class="overline">WooCommerce Theme</p>
 				<h3 class="large-heading">Booth</h3>
 				<div class="content">
-					<p>Dummy text is coming here now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+					<p>This another concept theme for WooCommerce eCommerce plugin. Booth was built to be a clean and modern design theme. I used the Elementor Page builder plugin to let anyone with any level of site manage to  manage the content.</p>
+
+					<p>As WordPress was originally created as a blog-publishing platform. I added a blog section into Booth.</p>
 				</div>
 				<dl class="details">
 				<dt>Client</dt>
