@@ -27,3 +27,7 @@
 						<i class="fal fa-file-pdf neon-gradient"></i>	
 						<span class="visually-hidden">PDF</span></span></a>
 		</li>
+		<li><a class="button button-icon" rel="external noopener" href="//npmjs.com/package/tim-green-resume" target="_blank" title="Tim Green's Alternative Resume on NPMJS"><span>
+						<i class="fab fa-npm neon-gradient"></i>	
+						<span class="visually-hidden">NPM Package</span></span></a>
+		</li>
