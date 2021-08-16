@@ -5,13 +5,11 @@
 				<p class="overline">WordPress Theme</p>
 				<h3 class="large-heading">Automotiv</h3>
 				<div class="content">
-					<p>A simple styling WordPress site that is using WooCommerce to add an eCommerce functionality to this site.</p>
-					<p>The site is an concept theme development to expand my knowledge in building a eCommerce specific website using two things that I love and that is WordPress & WooCommerce</p>
+					<p>This WordPress powered site is what I like to call a concept theme that I've built to expand my knowledge in building an eCommerce focused site. I focused on building a WordPress theme that is simple and easy to manage its content using a custom-built page builder. 
+					</p>
+					<p>The custom page builder functionality uses the Advanced Custom Fields Pro plugin and the field type called Flexible Content to achieve the core page building functionality. The store uses the WooCommerce plugin to add the eCommerce functionality.
+					</p>
 
-					<h4>Also using</h4>
-					<ul>
-						<li>Advanced Custom Fields Pro plugin to use it as a page builder using the flexible content layout field type</li>
-					</ul>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
