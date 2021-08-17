@@ -925,6 +925,18 @@
 	  --medium-paragraph: 0.875rem;
 	}
   
+	.display-heading{
+		font-size: var(--extra-large-heading);
+		padding-right: .4rem;
+
+		.neon-gradient{
+			br{
+				display: none;
+			}
+		}
+	}
+
+
 	#biography .avatar {
 	  width: 25%;
 	}
