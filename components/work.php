@@ -2,7 +2,7 @@
 
 <span id="projects"></span>
 <?php
-include 'partials/work/work-template.php';
+//include 'partials/work/work-template.php';
 include 'partials/work/work-atsb.php';
 include 'partials/work/work-rsl.php';
 include 'partials/work/work-automotiv.php';
