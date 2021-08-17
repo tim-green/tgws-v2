@@ -39,8 +39,6 @@
 @import "components/tools";
 @import "components/swc-blog";
 @import "modules/media-states";
-@import "modules/media-queries";
-
 
 /*
  ==== Sections ====
@@ -56,3 +54,10 @@
 */
 
 @import "pages/pages";
+
+/*
+ ==== Media Queries ====
+*/
+
+@import "modules/media-queries";
+
