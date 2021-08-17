@@ -241,6 +241,13 @@
 	.project-content {
 	  margin: var(--padding) 0 0;
 	}
+	#scrollToTopBtn{
+		i{
+			font-size: 1.3rem;
+			vertical-align: middle;	
+		}
+	}
+
   }
   
   @media only screen and (orientation: portrait) and (max-width: 767px) {
