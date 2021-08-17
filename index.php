@@ -27,7 +27,7 @@
   <!-- Preload -->
   <link rel="preload" href="assets/build/app.min.css" as="style">
   <!-- Style for App -->
-  <link rel="stylesheet" href="assets/build/app.min.css">
+  <link rel="stylesheet" href="assets/build/app.min.css?v<?php echo rand();?>">
   <!-- Tim Green -->
   <?php include_once('config/preload-images.php');?>
 </head>
