@@ -241,6 +241,12 @@
 	.project-content {
 	  margin: var(--padding) 0 0;
 	}
+	#social-networks{
+		br{
+			display: none;
+		}
+	}
+	
 	#scrollToTopBtn{
 		i{
 			font-size: 1.3rem;
