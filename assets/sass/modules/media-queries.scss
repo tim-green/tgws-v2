@@ -477,7 +477,6 @@
   
   @media only screen and (orientation: landscape) and (max-width: 590px) {
 	/* Small 320 Screens Landscape */
-  
 	#cover .footnote {
 	  -webkit-hyphens: auto;
 	  hyphens: auto;
@@ -920,6 +919,33 @@
   @media only screen and (orientation: landscape) and (max-height: 500px) {
 	/* Mobile Landscape */
   
+	 
+	#cover-animation{
+		align-items: flex-start;
+		
+
+		#menu ul{
+			display: flex;
+			flex-wrap: wrap;
+
+			li {
+				width: 50%;
+				margin: 0 0 1rem;
+
+				.label{
+					font-size: .80rem;
+				}
+			  }
+
+			  .button .icon{
+				display: none;
+			  }
+
+		  }
+		  
+		 
+	}
+
 	:root {
 	  --large-paragraph: 1rem;
 	  --medium-paragraph: 0.875rem;
