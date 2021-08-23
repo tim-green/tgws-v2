@@ -1133,7 +1133,7 @@
 	  left: calc(var(--padding) + env(safe-area-inset-left));
 	  right: calc(var(--padding) + env(safe-area-inset-right));
 	  position: absolute;
-	  /*transform: translateY(-8rem);*/
+	  transform: translate(-1.5rem,-6.5rem);
 	}
   
 	.project-overview .large-heading {
