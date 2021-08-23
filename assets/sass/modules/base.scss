@@ -86,6 +86,10 @@ ol, ul {
 	padding-bottom: 0 !important;
 }
 
+.white-background{
+	background: $white;
+}
+
 .gradient-start {
 stop-color: var(--gradient-start);
 }
