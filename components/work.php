@@ -1,8 +1,10 @@
 <!-- insert all work invidiual projects are located in /work -->
 
-<span id="projects"></span>
+
+
 <?php
 //include 'partials/work/work-template.php';
+include 'partials/work/selected-works.php';
 include 'partials/work/work-atsb.php';
 include 'partials/work/work-rsl.php';
 include 'partials/work/work-automotiv.php';
