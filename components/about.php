@@ -45,6 +45,17 @@
                         </p>
 					</div>
 					
+					
+					<!-- <p>
+						<button id="modal-profile-button" class="button button-rounded primary"><span class="label"><span>View</span> What I'm Doing Now</span>
+						<span class="icon question-mark">
+						<i class="fal fa-question-circle"></i>
+							</span></button>
+					</p> -->
+
+				</div>
+			</div>
+
 				</div>
 			</div>
 		</div>
