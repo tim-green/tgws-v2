@@ -240,12 +240,21 @@ stop-color: var(--gradient-start);
 			display: block;
 		}
 
-		svg {
+		svg{
 			display: block;
 			fill: $white;
 			height: 48px;
 			margin: 0 auto .5rem;
 			width: 48px;
+		}
+		.icon-fotcon{
+			display: block;
+			margin: 0 auto .5rem;
+			font-size: 48px;
+			width: 48px;
+			height: 48px;
+			padding:0;
+			line-height: 1;
 		}
 	}
 }
