@@ -1103,7 +1103,7 @@
   
   @media only screen and (orientation: landscape) and (min-width: 769px) and (max-width: 1200px) {
 	.project-content {
-	  /*width: calc(100vh - (var(--padding) * 2));*/
+	 width: calc(100vh - (var(--padding) * 2));
 	}
   
 	.project .wrapper {
