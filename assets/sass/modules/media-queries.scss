@@ -1235,7 +1235,25 @@
 	  width: auto;
 	}
   }
+
+  @media only screen and (orientation: landscape) and (min-width: 769px) and (max-width: 1152px) {
+	
   
+	.project-overview .overline {
+	  
+	  transform: translateY(0);
+	}
+  
+	.project-overview .large-heading {
+	  left: calc(var(--padding) + env(safe-area-inset-left));
+	  right: calc(var(--padding) + env(safe-area-inset-right));
+	}
+  
+	.project-overview .details {
+	  transform: translateY(0);
+	}
+  }
+
   @media only screen and (orientation: landscape) and (min-width: 1200px) {
 	/* From > Desktop */
   
