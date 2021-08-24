@@ -6,7 +6,7 @@
         </h2>
 
         <?php 
-        $url="https://somewhatcreative.net/wp-json/wp/v2/posts?per_page=1&_embed"; 
+        $url="https://somewhatcreative.net/wp-json/wp/v2/posts?per_page=1"; 
         $ch= curl_init(); 
     
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); 
