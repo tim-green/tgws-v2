@@ -1391,4 +1391,19 @@
 		rgba(5, 5, 5, 1) 100%
 	  );
 	}
-  }
+  }  }
+
+  @media only screen and (orientation: landscape) and (-webkit-device-pixel-ratio: 3) {
+		.project-overview .large-heading{
+			left: 0;
+		}
+
+		.project-overview .overline {
+			top: 0;
+			left: 0;
+			right: 0;
+			position: absolute;
+			transform: translateY(-4rem) !important;
+		}
+
+	}
