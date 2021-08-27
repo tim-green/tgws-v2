@@ -28,7 +28,9 @@
 					<!-- large-paragraph -->
 					<div class="content">
 						<p>
-                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here I'm also learning Adobe XD so that I can improve my UI/UX design and prototyping. 
+                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here.
+
+						I'm also taking some time to read, learn up and understand UI and UX principles. So one day I could call my self UI or UX expert but currently I don't call myself that by all means.
 						</p>
 					</div>
 
