@@ -245,3 +245,45 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 
+<!-- react 7 -->
+<article id="react-7" class="project">
+	<div class="wrapper">
+		<header class="project-overview expandable">
+			<div>
+				<p class="overline">React</p>
+				<h3 class="large-heading">Snake Game</h3>
+				<div class="content">
+					<p>This is for anyone who had a Nokia phone way back in the late 90's or early 2000's just like myself. And loved to play that Snake game
+                    </p>
+					<p>So I've created a React+Redux based verison of that classic game. To play just use the arrows keys on your keyboard but remember not to hit the wall, you just have three hearts.</p>
+                    <span></span>
+				</div>
+				<dl class="details">
+					<dt>Visit</dt>
+					<dd><a href="http://snake.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="https://github.com/tim-green/react-snake-game" target="_blank">View Repo</a></dd>
+				</dl>
+			</div>
+		</header>
+		<div class="project-content">
+			<div class="gallery">
+				<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-snake.webp" width="800" height="600" alt="Loading Image...">
+				</div>
+				<div class="gallery-wrapper">
+					<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake.webp" width="800" height="600" alt="">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-2.webp" width="800" height="600" alt="">
+					</div>
+                    <div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-1.webp" width="800" height="600" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+
