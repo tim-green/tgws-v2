@@ -48,23 +48,30 @@
 						</h1>
         
         <div class="react-cta">
-		<button class="button button-rounded primary">
-           <a href="/index.php"> <span class="label"><span class="black-text">No, I don't want to see your react work, please take me back home</span>
-            </a>
-        </button>
-        
+
         <nav>
         <ul>
         <li>
-                <a class="button button-rounded button-shadow smooth-scroll" href="#my-work" id="see-work">
-                    <span class="label">See the work</span>
-                    <span class="icon">
-                    <i class="fal fa-arrow-down neon-gradient" aria-hidden="true"></i>
-                    </span>
+                <a class="button button-rounded button-shadow smooth-scroll" id="gobk-home" href="/index.php">
+                    <span class="label">Go back home</span>
+
                 </a>
 			</li>
         </ul>
     </nav>
+
+		<button class="button button-rounded primary react-button-main">
+            <a href="#my-work" id="see-work">
+           <span class="label">
+               <span class="black-text full-text">See my react work</span>
+               <span class="icon">
+                    <i class="fal fa-arrow-down black-text" aria-hidden="true"></i>
+                    </span>
+            </span>
+            </a>
+</button>
+        
+        
 	</div>
 
     
