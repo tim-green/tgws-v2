@@ -287,3 +287,51 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 
+
+<!-- react 8 -->
+<article id="react-8" class="project">
+	<div class="wrapper">
+		<header class="project-overview expandable">
+			<div>
+				<p class="overline">React</p>
+				<h3 class="large-heading">Tetris Rush</h3>
+				<div class="content">
+					<p>Another game I like to play is Tetris. So here is another React app that I've built for those wants to match tiles.
+                    </p>
+					<p>To play this game you only have 5 minutes to play the game and get the highest score you. Like the Snake game above you use the arrow keys on your keyboard.</p>
+					
+					<p>Your score is stored in localStorage.</p>
+                    <span></span>
+				</div>
+				<dl class="details">
+					<dt>Visit</dt>
+					<dd><a href="http://tetris.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="https://github.com/tim-green/tetris-rush" target="_blank">View Repo</a></dd>
+				</dl>
+			</div>
+		</header>
+		<div class="project-content">
+			<div class="gallery">
+				<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-tetris.webp" width="800" height="600" alt="Loading Image...">
+				</div>
+				<div class="gallery-wrapper">
+					<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris.webp" width="800" height="600" alt="">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-1.webp" width="800" height="600" alt="">
+					</div>
+                    <div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-2.webp" width="800" height="600" alt="">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-3.webp" width="800" height="600" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+
