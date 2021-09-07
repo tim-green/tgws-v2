@@ -28,9 +28,8 @@
 					<!-- large-paragraph -->
 					<div class="content">
 						<p>
-                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here.
-
-						I'm also taking some time to read, learn up and understand UI and UX principles. So one day I could call my self UI or UX expert but currently I don't call myself that by all means.
+                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up <a href="/react/"><span class="skills">here</span></a>.
+						I'm also taking some time to read, learn up and understand UI and UX principles.
 						</p>
 					</div>
 
