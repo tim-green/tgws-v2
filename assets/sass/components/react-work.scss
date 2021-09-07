@@ -18,4 +18,30 @@
 
 .react-cta{
     display: flex;  
+@media only screen and (max-width: 800px) {
+    .react-cta{
+        display: inline-flex;
+        flex-direction: column;
+
+        button{
+            display: block;
+        }
+
+        .button{
+            white-space: normal;
+        }
+        nav li{
+            margin: 0 0 1rem;
+        }
+        #see-work{
+            margin-left: 0;
+        }
+    }
+
+    .tldr{
+        display: block;
+    }
+    .react-button-main{
+        margin-left: 0;
+    }
 }
