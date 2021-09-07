@@ -109,14 +109,7 @@
 	
 	<!-- back to top -->
 	<?php include_once('../includes/back-to-top.php'); ?>
-    <p>
-		<button id="modal-profile-button" class="button button-rounded primary">
-           <a href="/index.php"> <span class="label black-text"><span>Now, take me back to your home please</span>
-            <span class="icon question-mark">
-                <i class="fal fa-arrow-left"></i>
-            </span></a>
-        </button>
-	</p>
+    
 </div>
     </footer>
 
