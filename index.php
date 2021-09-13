@@ -8,19 +8,7 @@
   <meta name="author" content="Tim Green">
   <title>Tim Green // Front End Developer in Canberra</title>
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-  <link rel="icon" href="/assets/favicon/favicon.svg">
-  <link rel="manifest" href="/assets/favicon/site.webmanifest">
-  <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#050505">
-  <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
-  <meta name="apple-mobile-web-app-title" content="Tim Green">
-  <meta name="application-name" content="Tim Green">
-  <meta name="apple-mobile-web-app-title" content="Tim Green">
-  <meta name="application-name" content="Tim Green">
-  <meta name="msapplication-TileColor" content="#11998e">
-  <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+  <?php include_once('config/favicon.php');?>
 
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
@@ -30,6 +18,9 @@
   <link rel="stylesheet" href="assets/build/app.min.css?v<?php echo rand();?>">
   <!-- Tim Green -->
   <?php include_once('config/preload-images.php');?>
+
+  <!-- analytics -->
+  <?php include_once('config/analytics.php');?>
 </head>
 <body id="theTop">
     <!-- progress bar -->
@@ -71,5 +62,8 @@
     <!-- js -->
     <script src="assets/build/app.min.js"></script>
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
+
+      <!-- hotjar -->
+    <?php include_once('config/hotjar.php');?>
 </body>
 </html>
