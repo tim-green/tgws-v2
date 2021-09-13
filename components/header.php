@@ -8,7 +8,10 @@
 								<!-- svg -->
 							</div>
 							<!-- title -->
-							<h1 class="display-heading">Hello, I&rsquo;m Tim<span class="visually-hidden"> Green</span>. <span class="neon-gradient">I code experiences to connect brands with people.</span>
+							<h1 class="display-heading">Hello, I&rsquo;m Tim<span class="visually-hidden"> Green</span>. <span class="neon-gradient">A front-end developer who lives in Canberra, Australia.</span>
+							<!--
+								code experiences to connect brands with people
+							 -->
 							<!-- Front End Developer living in Canberra, Australia -->
 						</h1>
 						</div>
