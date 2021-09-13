@@ -25,17 +25,17 @@
 </head>
 <body id="theTop">
     <!-- progress bar -->
-    <?php include_once('components/progress-bar.php');?>
+    <?php include('components/progress-bar.php');?>
 
     <!-- insert of header of site -->
-    <?php include_once('components/header.php');?>
+    <?php include('components/header.php');?>
 
     <aside id="profile" class="full-viewport">
         <!-- aside #profile - about bio+skills-->
-         <?php include_once('components/about.php');?>
+         <?php include('components/about.php');?>
     </aside>
 
-
+    <main id="main">
     <?php 
     // work + past work
     include_once('components/work.php');
@@ -43,14 +43,13 @@
     //commented out selected work
     //include_once('components/selected-work.php');
     
-    include_once('components/experience.php');
+    include('components/experience.php');
     ?>
     
-    <main id="main">
+   
         <!-- inside this #main contains selected work & work -->
     <?php 
-        include_once('components/work.php');
-        include_once('components/blog.php');
+        include('components/blog.php');
     ?>
     </main>
 
