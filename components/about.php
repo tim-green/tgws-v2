@@ -60,6 +60,21 @@
 				</div>
 			</div>
 
+
+	<?php /*
+			<div id="modal-profile" class="modal">
+				<div id="modal-content" class="modal-content">
+					<div class="wrapper">
+						<button id="modal-profile-close" class="button button-rounded">
+							<span class="icon close neon-gradient">
+							<i class="fal fa-plus"></i>
+						</span>
+						<span class="visually-hidden">Close</span></button>
+
+						<!-- insert modal content -->
+						
+					</div>
 				</div>
 			</div>
+			*/?>
 		</div>
