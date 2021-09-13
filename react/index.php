@@ -8,25 +8,22 @@
   <meta name="author" content="Tim Green">
   <title>Tim Green // React Fun</title>
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-  <link rel="icon" href="/assets/favicon/favicon.svg">
-  <link rel="manifest" href="/assets/favicon/site.webmanifest">
-  <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#050505">
-  <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
-  <meta name="apple-mobile-web-app-title" content="Tim Green">
-  <meta name="application-name" content="Tim Green">
-  <meta name="apple-mobile-web-app-title" content="Tim Green">
-  <meta name="application-name" content="Tim Green">
-  <meta name="msapplication-TileColor" content="#11998e">
-  <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+  <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="../config/site.webmanifest">
+<link rel="mask-icon" href="../assets/images/favicon/safari-pinned-tab.svg" color="#141414">
+<meta name="msapplication-TileColor" content="#141414">
+<meta name="msapplication-TileImage" content="../assets/images/favicon/mstile-144x144.png">
+<meta name="theme-color" content="#141414">
 
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <!-- Style for App -->
   <link rel="stylesheet" href="../assets/build/app.min.css?<?php echo rand()?>">
   <!-- Tim Green -->
+   <!-- analytics -->
+   <?php include_once('../config/analytics.php');?>
 </head>
 <body id="theTop">
     <!-- progress bar -->
@@ -125,5 +122,7 @@
     <!-- js -->
     <script src="../assets/build/app.min.js"></script>
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
+     <!-- hotjar -->
+     <?php include_once('../config/hotjar.php');?>
 </body>
 </html>
