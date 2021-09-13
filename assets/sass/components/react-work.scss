@@ -14,13 +14,15 @@
         box-shadow: $black 0 0 0 1px !important;
    }
 
+   .button{
+    .icon{
+        margin-left: 0;
+    }
 }
 
-    .button{
-        .icon{
-            margin-left: 0;
-        }
-    }
+}
+
+    
     
     .react-button-main{
         margin-left: 1rem;
