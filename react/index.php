@@ -8,6 +8,7 @@
   <meta name="theme-color" content="#11998e">
   <meta name="author" content="Tim Green">
   <title>Tim Green // React Fun</title>
+  <meta name="description" content="To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here">
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon/favicon-32x32.png">
