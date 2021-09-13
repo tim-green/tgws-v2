@@ -7,7 +7,8 @@
   <meta name="robots" content="index,follow" />
   <meta name="theme-color" content="#11998e">
   <meta name="author" content="Tim Green">
-  <title>Tim Green // Front End Developer in Canberra</title>
+  <title>Personal Site of Tim Green, a Front End Developer currently living in Canberra, Australia</title>
+  <meta name="description" content="Hi I'm Tim Green, I'm a Website Developer living here in Canberra, Australia with 13 years experience where I've created and helped companies, government organisations and start-ups.">
   <!-- Favicons -->
   <?php include_once('config/favicon.php');?>
 
