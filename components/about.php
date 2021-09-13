@@ -28,7 +28,10 @@
 					<!-- large-paragraph -->
 					<div class="content">
 						<p>
-                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up <a href="/react/"><span class="skills">here</span></a>.
+                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've <a href="/react" rel="nofollow"><span class="skill">coded up here.</span></a>
+
+						
+
 						I'm also taking some time to read, learn up and understand UI and UX principles.
 						</p>
 					</div>
