@@ -1,3 +1,4 @@
+<?php include_once('../config/minification.php');?>
 <!doctype html>
 <html class="fonts-enabled page-loaded react-work">
 <head>

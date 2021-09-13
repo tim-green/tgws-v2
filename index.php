@@ -1,4 +1,5 @@
 <!doctype html>
+<?php include_once('config/minification.php');?>
 <html class="fonts-enabled page-loaded">
 <head>
   <meta charset="utf-8">
