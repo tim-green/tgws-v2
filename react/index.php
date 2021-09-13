@@ -107,6 +107,17 @@
 		<span>Thanks for seeing <br/>some of my React work.</span>
 	</p>
 	
+	</p><p>
+    <nav>
+        <ul>
+        <li>
+                <a class="button button-rounded button-shadow smooth-scroll" id="gobk-home" href="/index.php">
+                    <span class="label">Go back home</span>
+
+                </a>
+			</li>
+        </ul>
+    </nav>
 	<!-- back to top -->
 	<?php include_once('../includes/back-to-top.php'); ?>
     
