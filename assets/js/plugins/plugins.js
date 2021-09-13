@@ -161,11 +161,11 @@ media.forEach(t => {
 
       //replace 52 with the height of your header in px
 
-      header.classList.add('hide');
+      header.classList.add('hide-scroll');
       prevDirection = direction;
     }
     else if (direction === 1) {
-      header.classList.remove('hide');
+      header.classList.remove('hide-scroll');
       prevDirection = direction;
     }
   };
