@@ -20,7 +20,7 @@
 						<i class="fab fa-wordpress-simple neon-gradient"></i>	
 						<span class="visually-hidden">Blog</span></span></a>
 		</li>
-		<li><a class="button button-icon" rel="external noopener" href="timgreen.ws/tim-green-resume" target="_blank" title="Tim Green's Resume in PDF Form"><span>
+		<li><a class="button button-icon" rel="external noopener" href="/tim-green-resume" target="_blank" title="Tim Green's Resume in PDF Form"><span>
 						<i class="fal fa-file-pdf neon-gradient"></i>	
 						<span class="visually-hidden">PDF</span></span></a>
 		</li>
