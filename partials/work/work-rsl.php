@@ -18,7 +18,7 @@
 					<dt>Year</dt>
 					<dd>2017</dd>
 					<dt>Visit</dt>
-					<dd><a href="//rslnational.org" target="_blank" rel="nofollow">View Website</a></dd>
+					<dd><a href="http://rslnational.org" target="_blank" rel="nofollow">View Website</a></dd>
 				</dl>
 			</div>
 		</header>
