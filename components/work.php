@@ -1,7 +1,7 @@
 <!-- insert all work invidiual projects are located in /work -->
 
 
-
+<!-- <main class="main"> -->
 <?php
 //include 'partials/work/work-template.php';
 include 'partials/work/selected-works.php';
@@ -12,12 +12,6 @@ include 'partials/work/work-booth.php';
 include 'partials/work/work-nightowl.php';
 include 'partials/work/work-swc.php';
 ?>
+<!-- </main> -->
 
 
-
-<!-- <p>
-<button id="archive-work-button" class="button button-rounded primary"><span class="label"><span>View</span> My Past Works</span>
-<span class="icon question-mark">
-<i class="fal fa-archive"></i>
-    </span></button>
-</p> -->
