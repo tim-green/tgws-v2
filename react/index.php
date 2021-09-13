@@ -61,7 +61,7 @@
     </nav>
 
 		<button class="button button-rounded primary react-button-main">
-            <a href="#my-work" id="see-work">
+            <a href="#my-work">
            <span class="label">
                <span class="black-text full-text">See my react work</span>
                <span class="icon">
