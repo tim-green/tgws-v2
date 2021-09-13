@@ -4,3 +4,4 @@ tg-template
 Core File Structure for TGWS.txt
 partials/work/past-work.php
 partials/work/work-template.php
+components/modal-content.php
