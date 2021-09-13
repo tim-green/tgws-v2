@@ -49,7 +49,7 @@
         <nav>
         <ul>
         <li>
-                <a class="button button-rounded button-shadow smooth-scroll" id="gobk-home" href="/index.php">
+                <a class="button button-rounded button-shadow" id="gobk-home" href="/index.php">
                     <span class="label">Go back home</span>
 
                 </a>
@@ -106,7 +106,7 @@
     <nav>
         <ul>
         <li>
-                <a class="button button-rounded button-shadow smooth-scroll" id="gobk-home" href="/index.php">
+                <a class="button button-rounded button-shadow" id="gobk-home" href="/index.php">
                     <span class="label">Go back home</span>
 
                 </a>
