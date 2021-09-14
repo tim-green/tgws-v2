@@ -82,11 +82,10 @@
 	</header>
     
     <article class="white-background">
-    <span id="my-work"></span>
         <div class="wrapper no-padding">
             <div>
                 <h3 class="large-heading black-text" data-text="Some React work">
-                    <span>Some React work</span> 
+                    <span id="my-work">Some React work</span> 
                     <span class="visually-hidden">Some React work works</span>
                 </h3> 
                 <span class="black-text">Please note that not all of my react works been featured here.</span>
