@@ -151,10 +151,10 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rt.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rt.webp" width="800" height="600" alt="Rooster Teeth Lorem Ipsum generator">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rt-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rt-1.webp" width="800" height="600" alt="Copied filler text">
 					</div>
                     
 				</div>
@@ -192,13 +192,13 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl.webp" width="800" height="600" alt="ground control admin dashboard">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl-1.webp" width="800" height="600" alt="Demo of graph within ground control">
 					</div>
                     <div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl-2.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-groundctrl-2.webp" width="800" height="600" alt="Font size level headings">
 					</div>
 				</div>
 			</div>
@@ -237,7 +237,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-emoji.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-emoji.webp" width="800" height="600" alt="emoji react search function">
 					</div>
 				</div>
 			</div>
@@ -273,13 +273,13 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake.webp" width="800" height="600" alt="Classic snake game">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-2.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-2.webp" width="800" height="600" alt="demo of the snake game">
 					</div>
                     <div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-snake-1.webp" width="800" height="600" alt="game on pause">
 					</div>
 				</div>
 			</div>
@@ -318,16 +318,16 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris.webp" width="800" height="600" alt="Tetris rush you've got five minutes">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-1.webp" width="800" height="600" alt="game in progress">
 					</div>
                     <div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-2.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-2.webp" width="800" height="600" alt="new record in tetris rush">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-3.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-tetris-3.webp" width="800" height="600" alt="game over">
 					</div>
 				</div>
 			</div>
@@ -365,10 +365,10 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-unsplash.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-unsplash.webp" width="800" height="600" alt="finding photo">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-unsplash-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-unsplash-1.webp" width="800" height="600" alt="selected photo within a lightbox with information">
 					</div>
 				</div>
 			</div>
@@ -406,20 +406,13 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-todo.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-todo.webp" width="800" height="600" alt="to do list">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-todo-1.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-todo-1.webp" width="800" height="600" alt="mobile view of the todo list">
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </article>
-
-
-
-
-
-
-

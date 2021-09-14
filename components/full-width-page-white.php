@@ -7,7 +7,6 @@
 					<p class="visually-hidden">Tim Green</p>
 					<h1 class="large-heading neon-gradient">What I'm currently learning</span>
                     </h1>
-					<!-- large-paragraph -->
 					<div class="content">
 						<p>
                         To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here I'm also learning Adobe XD so that I can improve my UI/UX design and prototyping. 

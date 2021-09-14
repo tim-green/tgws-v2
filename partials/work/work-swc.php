@@ -16,8 +16,8 @@
 					<dd>2017</dd>
 					<dt>Visit</dt>
 					<dd><a href="//somewhatcreative.net" target="_blank">View Website</a></dd>
-					<!-- <dt>Git Repo</dt>
-					<dd><a href="//github.com/tim-green/swc-wp-theme" target="_blank">View Repo</a></dd> -->
+					<?php /* <dt>Git Repo</dt>
+					<dd><a href="//github.com/tim-green/swc-wp-theme" target="_blank">View Repo</a></dd> */?>
 				</dl>
 			</div>
 		</header>

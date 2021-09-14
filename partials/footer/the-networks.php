@@ -6,16 +6,6 @@
 						<i class="fab fa-instagram neon-gradient"></i>	
 						<span class="visually-hidden">Instagram</span></span></a>
 		</li>
-		<!-- <li><a class="button button-icon" rel="external noopener" href="#" target="_blank" title="Facebook"><span>
-						<i class="fab fa-facebook-square neon-gradient"></i>	
-						<span class="visually-hidden">Facebook</span></span></a>		
-		</li> 
-
-		<li><a class="button button-icon" rel="external noopener" href="#" target="_blank" title="GitHub"><span>
-						<i class="fab fa-github neon-gradient"></i>	
-						<span class="visually-hidden">GitHub</span></span></a>
-		</li>
-		-->
 		<li><a class="button button-icon" rel="external noopener" href="//somewhatcreative.net" target="_blank" title="SomeWhat Creative Blog"><span>
 						<i class="fab fa-wordpress-simple neon-gradient"></i>	
 						<span class="visually-hidden">Blog</span></span></a>

@@ -1,3 +1,1 @@
-<div id="progress-bar">
-		<div id="progress-bar-indicator"></div>
-	</div>
+<div id="progress-bar"><div id="progress-bar-indicator"></div></div>

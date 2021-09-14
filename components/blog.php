@@ -2,7 +2,8 @@
 	<div class="wrapper">
         <div>
         <h2 class="large-heading second-level-heading" data-text="Latest post from SomeWhat Creative">
-            <span>Latest post from SomeWhat Creative</span> <span class="visually-hidden">Latest post from SomeWhat Creative</span>
+            <span>Latest post from SomeWhat Creative</span> 
+            <span class="visually-hidden">Latest post from SomeWhat Creative</span>
         </h2>
 
         <?php 

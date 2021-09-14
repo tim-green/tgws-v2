@@ -9,7 +9,7 @@
 					
 					<p> Night Owl uses Bootstrap 4 CSS Framework has has been based on a simple and modular design. 
 					</p>
-					<p>It also comes with lots of reusable and beautiful UI elements, widgets. <!-- I don't call myself a UI or UX expert by all means. I do however like to take some time of mine to read, learn and understand UI and UX principles.--></p>
+					<p>It also comes with lots of reusable and beautiful UI elements, widgets. </p>
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
