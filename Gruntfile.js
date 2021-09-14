@@ -37,7 +37,6 @@ module.exports = function(grunt) {
           'assets/build/app.min.js': [
             'assets/js/vendor/anime.js',
             'assets/js/plugins/anime.init.js', 
-            'assets/js/plugins/plugins.js',
             'assets/js/vendor/vanilla-lazyload.js',
             'assets/js/plugins/smooth-scroll.js',
             'assets/js/plugins/navpag.js',
@@ -47,6 +46,7 @@ module.exports = function(grunt) {
             'assets/js/vendor/swiper.js',
             'assets/js/plugins/swiper.init.js',
             'assets/js/plugins/back-to-top.js',
+            'assets/js/plugins/plugins.js'
           ]
         },
         options: {
@@ -70,7 +70,6 @@ module.exports = function(grunt) {
         files: [
           'assets/js/vendor/anime.js',
           'assets/js/plugins/anime.init.js', 
-          'assets/js/plugins/plugins.js',
           'assets/js/vendor/vanilla-lazyload.js',
           'assets/js/plugins/smooth-scroll.js',
           'assets/js/plugins/navpag.js',
@@ -80,6 +79,7 @@ module.exports = function(grunt) {
           'assets/js/vendor/swiper.js',
           'assets/js/plugins/swiper.init.js',
           'assets/js/plugins/back-to-top.js',
+          'assets/js/plugins/plugins.js'
         ],
         tasks: ['uglify']
       },
