@@ -1,5 +1,7 @@
 # TimGreen.ws Version 2.0
-> The new site design for Tim Green personal site. 	
->
-> I really want to move away from having jQuery and just have some plain old JavaScript functionalities, it also includes Sass, webp assets too.
+The brand new site for myself.
+
+I've moved away from having jQuery and having some good old vanilla JS functionalities. I used Sass for styling and converted nearly all images from jpg to WebP. 
+
+Nearly every bit of code and elements been optimised and minified to help achieve the 100/100 performance score.
 
