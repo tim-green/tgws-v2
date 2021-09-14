@@ -1,3 +1,4 @@
+<?php /* full width page - white */ ?>
 <section class="black-wrap full-viewport">
 <div class="wrapper">
 			<div id="">

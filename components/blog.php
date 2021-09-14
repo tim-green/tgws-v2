@@ -1,3 +1,4 @@
+<?php /* blog */ ?>
 <header id="blog" class="purple-gradient full-viewport">
 	<div class="wrapper">
         <div>

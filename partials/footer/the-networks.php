@@ -1,3 +1,4 @@
+<?php /* the networks */ ?>
 <nav id="social-networks">
 	<h2 class="visually-hidden">Social Networks</h2>
 	<p>Otherwise you can stalk me on these few social networks or <br>view my resume in PDF form or my alternative resume as a NPM Package:</p>
