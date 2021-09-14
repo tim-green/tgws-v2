@@ -1,3 +1,4 @@
+<?php /* contacts */ ?>
 <nav id="contacts">
 	<h2 class="visually-hidden">Contacts</h2>
 	<p>If you want to contact me for new projects and collaborations

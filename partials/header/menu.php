@@ -1,3 +1,4 @@
+<?php /* menu */ ?>
 <nav id="menu">
 	<h2 class="visually-hidden">Skip to content</h2>
 	<ul>
