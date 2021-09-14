@@ -8,7 +8,7 @@
         </h2>
 
         <?php 
-        $url="https://somewhatcreative.net/wp-json/wp/v2/posts?per_page=1"; 
+        $url="https://somewhatcreative.net/wp-json/wp/v2/posts?per_page=1&orderby=date"; 
         $ch= curl_init(); 
     
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); 
