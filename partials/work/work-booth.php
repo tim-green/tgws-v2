@@ -1,3 +1,4 @@
+<?php /* booth project */ ?>
 <article id="booth" class="project">
 	<div class="wrapper">
 		<header class="project-overview expandable">

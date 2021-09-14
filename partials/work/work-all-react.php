@@ -1,3 +1,4 @@
+<?php /* react projects */ ?>
 <!-- react 1 -->
 <article id="react-1" class="project">
 	<div class="wrapper">

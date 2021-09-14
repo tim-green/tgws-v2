@@ -1,3 +1,5 @@
+<?php /* swc project */ ?>
+
 <article id="swc" class="project">
 	<div class="wrapper">
 		<header class="project-overview expandable">
