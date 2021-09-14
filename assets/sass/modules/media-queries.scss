@@ -943,7 +943,14 @@
 			  }
 
 		  }
+		  [data-alt] > span {
+			display: none;
+		  }
 		  
+		  [data-alt]::before {
+			content: attr(data-alt);
+			font-size: .75rem;
+		  }
 		 
 	}
 
