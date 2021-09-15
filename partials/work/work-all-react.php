@@ -13,7 +13,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="//ipinfo.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://ipinfo.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/ip-info-react" target="_blank">View Repo</a></dd>
 				</dl>
@@ -49,7 +49,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="//pw-gen.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://pw-gen.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/password-generator" target="_blank">View Repo</a></dd>
 				</dl>
