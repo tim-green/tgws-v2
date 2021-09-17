@@ -7,31 +7,16 @@
             <span class="visually-hidden">Latest post from SomeWhat Creative</span>
         </h2>
 
-        <?php 
-        $url="https://somewhatcreative.net/wp-json/wp/v2/posts?per_page=1"; 
-        $ch= curl_init(); 
-    
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); 
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
-        curl_setopt($ch, CURLOPT_URL,$url); 
-        
-        $result=curl_exec($ch); 
-        $posts= json_decode($result, true); 
-        foreach ($posts as $post) 
-        { 
-        ?>
-
+        <?php include_once('config/blog-connect.php');?>
             <div class="content">
                 <h4 class="medium-heading second-level-heading">
-                <a href="<?php echo $post['link']; ?>" class="external-linkBlog" rel="follow" target="_blank">
-                <?php echo $post['title']['rendered']; ?>  
-                </a>
+                    <a href="<?php echo $item_link[0]; ?>" class="external-linkBlog" rel="follow" target="_blank">
+                    <?php echo $item_title[0]; ?>
+                    </a>
                 </h4>
-                <?php 
-                    echo $post['excerpt']['rendered']; 
-                ?>
+                
+                <p class="post-excerpt"><?php echo $item_description[0]; ?></p>
             </div>
-             <?php } ?>
         </div>
 	</div>
 </header>
