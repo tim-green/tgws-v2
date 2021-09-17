@@ -79,6 +79,10 @@
 }
 
 @media only screen and (min-width: 650px) {
+
+	// .more-link{
+	// 	width: 23%;
+	// }
 	#cookie-bar .wrapper {
 		font-size: var(--medium-paragraph);
 		padding-bottom: calc((var(--padding)/ 2) + env(safe-area-inset-bottom));
