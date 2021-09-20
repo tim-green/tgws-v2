@@ -1,6 +1,6 @@
 <?php include_once('config/minification.php');?>
 <!doctype html>
-<html class="fonts-enabled page-loaded">
+<html class="fonts-enabled page-loaded" lang="en-AU">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
