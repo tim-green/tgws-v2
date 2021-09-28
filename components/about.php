@@ -35,8 +35,8 @@
 						I'm currently working on developing some of my own <span class="skill">WordPress plugins</span>, I've developed one plugin called Greeny Cookie Consent, and this plugin is a simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.
 					</p>
 
-                    <p>
-                        And also I'm in the progress in developing a clean responsive WooCommerce theme called <span class="skill">Automotiv</span> which you can <a href="//themes.timgreen.ws/automotiv/" rel="nofollow"><span class="skill">visit the site here</span></a>, or view the <a href="//github.com/tim-green/automotiv-wp-theme" rel="nofollow"><span class="skill">GitHub Repo</span></a>, also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
+					<p>
+					I'm currently building up a new theme for Drupal called <span class="skill">Flywheel</span>, it's far from being completed but if you are interested in look at on-going development of this Drupal theme, you can by <a href="//drupal.timgreen.ws/" rel="nofollow" target="_blank"><span class="skill">visiting this link</span></a> and I will take you there or visiting the <a href="//github.com/tim-green/flywheel-drupal" rel="nofollow"><span class="skill">Flywheel GitHub repo here</span></a>. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
                     </p>
 				</div>
 		</div>
