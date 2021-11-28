@@ -32,11 +32,12 @@
 				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently building</h1>
 				<div class="content">
 					<p>
-						I'm currently working on developing some of my own <span class="skill">WordPress plugins</span>, I've developed one plugin called Greeny Cookie Consent, and this plugin is a simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.
+					I'm currently working on developing some of my own  <span class="skill">WordPress plugins</span>. One of the first ones I've developed is one plugin called Greeny Cookie Consent, this plugin is a simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.
 					</p>
 
+
 					<p>
-					I'm currently building up a new theme for Drupal called <span class="skill">Flywheel</span>, it's far from being completed but if you are interested in look at on-going development of this Drupal theme, you can by <a href="//drupal.timgreen.ws/" rel="nofollow" target="_blank"><span class="skill">visiting this link</span></a> and I will take you there or visiting the <a href="//github.com/tim-green/flywheel-drupal" rel="nofollow"><span class="skill">Flywheel GitHub repo here</span></a>. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
+					I've just finished up building a theme for Drupal called <span class="skill">Flywheel</span>, you can see what the theme looks like by <a href="//drupal.timgreen.ws/" rel="nofollow" target="_blank"><span class="skill">visiting this link</span></a> and I will take you there. Or you can visit the <a href="//github.com/tim-green/flywheel-drupal" rel="nofollow"><span class="skill">Flywheel GitHub repo here</span></a> to see the theme code. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
                     </p>
 				</div>
 		</div>
