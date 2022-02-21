@@ -37,7 +37,7 @@
 
 
 					<p>
-					I've just finished up building a theme for Drupal called <span class="skill">Flywheel</span>, you can see what the theme looks like by <a href="//drupal.timgreen.ws/" rel="nofollow" target="_blank"><span class="skill">visiting this link</span></a> and I will take you there. Or you can visit the <a href="//github.com/tim-green/flywheel-drupal" rel="nofollow"><span class="skill">Flywheel GitHub repo here</span></a> to see the theme code. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
+					I've just finished up building a theme for WordPress called <span class="skill">Rosewood</span>, you can see what the theme looks like by <a href="//themes.timgreen.ws/rosewood/" rel="nofollow" target="_blank"><span class="skill">visiting this link</span></a> and I will take you there. Or you can visit the <a href="//github.com/tim-green/rosewood-wp-theme" rel="nofollow"><span class="skill">Rosewood GitHub repo here</span></a> to see the theme code. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="skill">NPM package</span></a> which is based on my resume.
                     </p>
 				</div>
 		</div>
