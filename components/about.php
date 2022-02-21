@@ -32,7 +32,7 @@
 				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently building</h1>
 				<div class="content">
 					<p>
-					I'm currently working on developing some of my own  <span class="skill">WordPress plugins</span>. One of the first ones I've developed is one plugin called Greeny Cookie Consent, this plugin is a simple and developer-friendly plugin that let visitors know that the site is using cookies. You can view the <a href="//github.com/tim-green/greeny-cookie-consent" rel="nofollow"><span class="skill">GitHub Repo</span></a> where's the plugin is hosted.
+					I'm currently working on updating my own <span class="skill">WordPress framework</span> that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields. You can visit the  <a href="https://github.com/tim-green/groundctrl-wp-framework" rel="nofollow"><span class="skill"> GitHub repo here</span></a> to see the ongoing development of the framework.
 					</p>
 
 
