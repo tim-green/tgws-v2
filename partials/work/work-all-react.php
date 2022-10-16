@@ -120,7 +120,7 @@
 	</div>
 </article>
 
-
+<?php /*
 
 <!-- react 4 -->
 <article id="react-4" class="project">
@@ -163,7 +163,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 		</div>
 	</div>
 </article>
-
+*/?>
 
 <!-- react 5 -->
 <article id="react-5" class="project">
