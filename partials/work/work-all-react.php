@@ -458,6 +458,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 
+<?php /* 
 <!-- react 12 -->
 <article id="react-12" class="project">
 	<div class="wrapper">
@@ -484,16 +485,17 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid.webp" width="800" height="600" alt="to do list">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid.webp" width="800" height="600" alt="covid 19 react app">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid2.webp" width="800" height="600" alt="mobile view of the todo list">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid2.webp" width="800" height="600" alt="covid 19 react app stats">
 					</div>
 					<div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid3.webp" width="800" height="600" alt="mobile view of the todo list">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid3.webp" width="800" height="600" alt="covid 19 react app data">
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </article>
+*/?>
