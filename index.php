@@ -62,6 +62,9 @@
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
 
       <!-- hotjar -->
-    <?php include_once('config/hotjar.php');?>
+    <?php 
+      include_once('config/hotjar.php');
+      include_once('config/segment.php');
+    ?>
 </body>
 </html>
