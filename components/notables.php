@@ -8,14 +8,14 @@
 		<div class="not-box">
 			<h4 class="small-heading">Font Awesome Pro</h4>
 			<div class="content">
-				<p><span class="yet-exp">2016<br/>1 out of 35,550 Kickstarter Backer</span>
+				<p><span class="yet-exp">2016<br/>1 out of the 35,550 Kickstarter Backers</span>
 				</p>
 			</div>
 		</div>
 		<div class="not-box">
 			<h4 class="small-heading">Hotjar</h4>
 			<div class="content">
-				<p><span class="yet-exp">2015<br/>Founding Members (Beta Tester)</span>
+				<p><span class="yet-exp">2015<br/>Beta Tester</span>
 				</p>
 			</div>
 		</div>
