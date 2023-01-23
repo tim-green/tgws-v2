@@ -5,9 +5,6 @@
 
 */
 
-
-
-
 .react-work{
     #see-work{
         margin-left: 1rem;
@@ -29,9 +26,11 @@
         margin-left: 1rem;
     }
 
-    .react-cta{
-        display: flex; 
-    }
+.react-cta{
+    display: flex; 
+}
+
+
 
 @media only screen and (max-width: 800px) {
     .react-cta{
