@@ -30,6 +30,39 @@
     display: flex; 
 }
 
+// Framed Section
+.full-screen-preview{
+    overflow: hidden;
+}
+.react-work{
+     .full-screen-preview{
+        .full-screen-preview_frame{      
+            height: 100vh; 
+            width: 100%;
+            background: $white;
+            #snake-game{
+                padding-bottom: 2rem;
+            }
+        }
+    }
+    
+    .preview-header{
+        display: flex;
+        align-items:flex-start;
+        justify-content: space-between;
+        vertical-align: middle; 
+        padding: .9rem;
+        height: 20%;
+
+        .project-heading{
+            .small-heading{
+                line-height: 3rem;
+                padding-bottom: 0 !important;
+            }
+            
+        }
+    }
+}
 
 
 @media only screen and (max-width: 800px) {
