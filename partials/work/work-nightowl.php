@@ -14,10 +14,10 @@
 					<p>It also comes with lots of reusable and beautiful UI elements, widgets. </p>
 				</div>
 				<dl class="details">
-					<dt>Client</dt>
+					<!-- <dt>Client</dt>
+					<dd>Personal Concept</dd> -->
+					<dt>Type</dt>
 					<dd>Personal Concept</dd>
-					<dt>Agency</dt>
-					<dd>Freelance</dd>
 					<dt>Year</dt>
 					<dd>2019</dd>
 					<dt>Visit</dt>

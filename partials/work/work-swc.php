@@ -10,9 +10,9 @@
 					<p>This is the WordPress theme for my web design blog called SomeWhat Creative. This theme like many of the themes that I create is simplistic.</p> <p>The theme also uses the SiteOrigin Widgets Bundle so I can use the Social Media Buttons on the sidebar of the theme.</p>
 				</div>
 				<dl class="details">
-					<dt>Client</dt>
-					<dd>SomeWhat Creative</dd>
-					<dt>Agency</dt>
+					<!-- <dt>Client</dt>
+					<dd>SomeWhat Creative</dd> -->
+					<dt>Type</dt>
 					<dd>Personal Blog</dd>
 					<dt>Year</dt>
 					<dd>2017</dd>

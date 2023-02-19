@@ -11,7 +11,7 @@
 
 				</div>
 				<dl class="details">
-					<dt>Client</dt>
+					<dt>Type</dt>
 					<dd>Personal Concept</dd>
 					<dt>Year</dt>
 					<dd>2021</dd>

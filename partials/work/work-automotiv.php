@@ -13,7 +13,7 @@
 
 				</div>
 				<dl class="details">
-					<dt>Client</dt>
+					<dt>Type</dt>
 					<dd>Personal Concept</dd>
 					<dt>Agency</dt>
 					<dd>Freelance</dd>
