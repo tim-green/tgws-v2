@@ -15,8 +15,8 @@
 				<dl class="details">
 					<dt>Type</dt>
 					<dd>Personal Concept</dd>
-					<dt>Agency</dt>
-					<dd>Freelance</dd>
+					<!-- <dt>Agency</dt>
+					<dd>Freelance</dd> -->
 					<dt>Year</dt>
 					<dd>2020</dd>
 					<dt>Visit</dt>
