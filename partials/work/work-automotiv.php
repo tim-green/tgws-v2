@@ -14,7 +14,7 @@
 				</div>
 				<dl class="details">
 					<dt>Type</dt>
-					<dd>Personal Concept</dd>
+					<dd>WooCommerce Theme</dd>
 					<!-- <dt>Agency</dt>
 					<dd>Freelance</dd> -->
 					<dt>Year</dt>
