@@ -12,7 +12,7 @@
 				</div>
 				<dl class="details">
 					<dt>Type</dt>
-					<dd>Personal Concept</dd>
+					<dd>Drupal Theme</dd>
 					<dt>Year</dt>
 					<dd>2021</dd>
 					<dt>Visit</dt>
