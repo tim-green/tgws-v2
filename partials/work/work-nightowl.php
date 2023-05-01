@@ -17,7 +17,7 @@
 					<!-- <dt>Client</dt>
 					<dd>Personal Concept</dd> -->
 					<dt>Type</dt>
-					<dd>Personal Concept</dd>
+					<dd>UI Dashboard</dd>
 					<dt>Year</dt>
 					<dd>2019</dd>
 					<dt>Visit</dt>
