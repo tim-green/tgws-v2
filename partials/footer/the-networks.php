@@ -1,7 +1,7 @@
 <?php /* the networks */ ?>
 <nav id="social-networks">
 	<h2 class="visually-hidden">Social Networks</h2>
-	<p>Otherwise you can stalk me on these few social networks or <br>view my resume in PDF form or my alternative resume as a NPM Package:</p>
+	<p>Otherwise you can follow me on these other few social networks or <br>view my resume in PDF form or my alternative resume as a NPM Package:</p>
 	<ul>
 	<li><a class="button button-icon" rel="external noopener" href="//instagram.com/somewhatcreative" target="_blank" title="Instagram"><span>
 						<i class="fab fa-instagram neon-gradient"></i>	
