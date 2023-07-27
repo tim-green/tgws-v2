@@ -60,6 +60,7 @@
     <!-- js -->
     <script src="assets/build/app.min.js"></script>
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
+    <script async src='https://cdn.loado.dev/sdk.js'></script>
 
       <!-- hotjar -->
     <?php 
