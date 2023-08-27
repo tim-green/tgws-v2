@@ -1,5 +1,8 @@
 <?php include_once('config/minification.php');?>
 <!doctype html>
+<!-- Hello there! As you are analysing my source code, I assume that you are a technically interested and creative person. What brought you here is beyond me. As can tell you this. This site is no masterpiece. But I am happy you are here and I want you to never stop exploring source code. 
+
+So share, teach, introduce, help, mentor. Use that brain to make this place better. I like you – go ahead and have a look below.  -->
 <html class="fonts-enabled page-loaded" lang="en-AU">
 <head>
   <meta charset="utf-8">
