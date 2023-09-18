@@ -17,3 +17,12 @@
 	text-fill-color: transparent;
 	z-index: 2;
 }
+
+.neon-gradient-underline{
+	text-decoration: 2px underline var(--gradient-start);
+	transition: .4s  ease-out;
+	&:hover{
+		text-decoration: 2px underline var(--gradient-end);
+		transition: .6s  ease-in;
+	}
+}
