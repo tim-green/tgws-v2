@@ -21,7 +21,8 @@ html{
 	height: -webkit-fill-available;
 	text-rendering: optimizeLegibility;
 	-webkit-text-size-adjust: 100%;
-
+	scroll-behavior: smooth;
+	
 	.fonts-enabled * {
 		-moz-font-feature-settings: "ss03";
 		-webkit-font-feature-settings: "ss03";			
