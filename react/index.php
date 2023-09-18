@@ -48,14 +48,18 @@
         
         <div class="react-cta">
 
-        <nav>
+        <nav id="menu">
         <ul>
-        <li>
+            <li>
                 <a class="button button-rounded button-shadow" id="gobk-home" href="/index.php">
                     <span class="label">Go back home</span>
-
                 </a>
-			</li>
+            </li>
+            <li>
+                <a class="button button-rounded button-shadow primary" href="#react-1">
+                    <span class="label">View the first react project!</span>
+                </a>
+            </li>
         </ul>
     </nav>
 
