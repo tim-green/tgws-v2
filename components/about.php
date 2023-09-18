@@ -24,7 +24,7 @@
 				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently learning</h1>
 				<div class="content">
 					<p>
-                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've <a href="/react" rel="nofollow"><span class="skill">coded up here.</span></a> I'm also taking some time to read, learn up and understand UI and UX principles.
+                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles.
 					</p>
 				</div>
 
