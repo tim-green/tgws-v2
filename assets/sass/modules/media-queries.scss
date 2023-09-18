@@ -54,6 +54,10 @@
 	#selected-works {
 		min-height: -webkit-fill-available
 	}
+
+	#rps-heading br{
+		display: none;
+	}
 }
 
 @media only screen and (orientation: landscape) and (max-height: 500px) {
