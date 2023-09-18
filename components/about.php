@@ -17,7 +17,7 @@
 					<span id="about"></span>
 					<p>I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>. I use <span class="skill">GruntJS</span> to automatically perform frequent that I use on a daily basis when building websites and while using <span class="skill">GitHub</span> and <span class="skill">Fork Git Client</span> to help with versioning control my code.</p>
 
-					<p>Every week I use a social media management tool called <span class="skill">HootSuite</span> where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called <a href="//somewhatcreative.net" rel="follow" target="_blank"><span class="skill">SomeWhat Creative</span></a>.</p>
+					<p>Every week I use a social media management tool called <span class="skill">HootSuite</span> where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called <a href="//somewhatcreative.net" rel="follow" target="_blank"><span class="bold-text neon-gradient-underline">SomeWhat Creative</span></a>.</p>
 				</div>
 
 
@@ -32,7 +32,7 @@
 				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently building</h1>
 				<div class="content">
 					<p>
-					I'm currently working on updating my own <span class="skill">WordPress framework</span> that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields. You can visit the  <a href="https://github.com/tim-green/groundctrl-wp-framework" rel="nofollow"><span class="skill"> GitHub repo here</span></a> to see the ongoing development of the framework.
+					I'm currently working on updating my own <span class="skill">WordPress framework</span> that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields. You can visit the  <a href="https://github.com/tim-green/groundctrl-wp-framework" rel="nofollow"><span class="bold-text neon-gradient-underline"> GitHub repo here</span></a> to see the ongoing development of the framework.
 					</p>
 
 
