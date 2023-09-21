@@ -25,7 +25,7 @@ module.exports = function(grunt) {
           sourcemap: false
         },
         files: {
-          'assets/build/app.min.css': [
+          'build/app.min.css': [
               'assets/sass/app.scss'
           ]
         }
@@ -34,7 +34,7 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'assets/build/app.min.js': [
+          'build/app.min.js': [
             'assets/js/vendor/anime.js',
             'assets/js/plugins/anime.init.js', 
             'assets/js/vendor/vanilla-lazyload.js',
@@ -51,8 +51,8 @@ module.exports = function(grunt) {
         },
         options: {
           preserveComments: false,
-          sourceMap: 'assets/build/app.min.js.map',
-          sourceMappingURL: '/assets/build/app.min.js.map'
+          sourceMap: 'build/app.min.js.map',
+          sourceMappingURL: 'build/app.min.js.map'
         }
       }
     },
@@ -91,8 +91,8 @@ module.exports = function(grunt) {
     },
     clean: {
       dist: [
-        'assets/build/app.min.css',
-        'assets/build/app.min.js'
+        'build/app.min.css',
+        'build/app.min.js'
       ]
     }
   });
