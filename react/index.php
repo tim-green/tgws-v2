@@ -22,7 +22,7 @@
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <!-- Style for App -->
-  <link rel="stylesheet" href="../assets/build/app.min.css">
+  <link rel="stylesheet" href="../build/app.min.css">
   <!-- Tim Green -->
    <!-- analytics -->
    <?php include_once('../config/analytics.php');?>

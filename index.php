@@ -18,9 +18,9 @@ So share, teach, introduce, help, mentor. Use that brain to make this place bett
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <!-- Preload -->
-  <link rel="preload" href="assets/build/app.min.css" as="style">
+  <link rel="preload" href="build/app.min.css" as="style">
   <!-- Style for App -->
-  <link rel="stylesheet" href="assets/build/app.min.css">
+  <link rel="stylesheet" href="build/app.min.css">
   <!-- analytics -->
   <?php include_once('config/analytics.php');?>
 </head>
@@ -61,7 +61,7 @@ So share, teach, introduce, help, mentor. Use that brain to make this place bett
         <?php include_once('components/footer.php');?>
     </footer>
     <!-- js -->
-    <script src="assets/build/app.min.js"></script>
+    <script src="build/app.min.js"></script>
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
     <script async src='https://cdn.loado.dev/sdk.js'></script>
 
