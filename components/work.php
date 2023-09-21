@@ -8,4 +8,5 @@
     include 'partials/work/work-nightowl.php';
     include 'partials/work/work-flywheel.php';
     include 'partials/work/work-rsl.php';
+    include 'partials/work/work-react-cta.php';
 ?>
