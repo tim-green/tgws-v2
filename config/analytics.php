@@ -16,3 +16,6 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "hnnx9o8umi");
 </script>
+
+<!-- Tag for Datapulse -->
+<script defer type="text/javascript" src="https://datapulse.app/datapulse.min.js" id="datapulse" data-endpoint="https://datapulse.app/api/v1/event" data-workspace="clnikl2rj5qifcl37ri28uyma"></script>
