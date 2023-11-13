@@ -6,9 +6,9 @@
 				<p class="overline">WordPress Theme</p>
 				<h3 class="large-heading">Automotiv</h3>
 				<div class="content">
-					<p>This WordPress powered site is what I like to call a concept theme that I've built to expand my knowledge in building an eCommerce focused site. I focused on building a WordPress theme that is simple and easy to manage its content using a custom-built page builder. 
+					<p>I created this WooCommerce theme to enhance my expertise in developing eCommerce-focused websites. The primary focus while designing this theme was to keep it straightforward and easily manageable, achieved through the implementation of a custom-built page builder for seamless content management.
 					</p>
-					<p>The custom page builder functionality uses the Advanced Custom Fields Pro plugin and the field type called Flexible Content to achieve the core page building functionality. The store uses the WooCommerce plugin to add the eCommerce functionality.
+					<p>The custom page builder functionality employs the Advanced Custom Fields Pro plugin, utilising the Flexible Content field type to achieve essential page-building capabilities. The eCommerce functionality is integrated using the WooCommerce plugin for the store.
 					</p>
 
 				</div>
