@@ -11,7 +11,7 @@
 				<div class="content" >
 					<p>I'm a web developer with a passion for strong, simple websites. I have 15 years of experience working in both an advertising agency and a freelance capacity, mainly focusing on building websites and web applications that are simple to use and look great.</p>
 
-					<p>I've worked with some great agencies, government organisations, individuals and start-ups to reach both business and website goals. My approach is realistic and creative, supported by skills in web development such as using <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span>, <span class="skill">JavaScript/jQuery</span> and along with using frameworks like <span class="skill">Bootstrap</span>.</p>
+					<p>I've worked with some great agencies, government organisations, individuals and start-ups to reach both business and website goals. My approach is realistic and creative, supported by skills in web development such as using <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span>, <span class="skill">JavaScript/jQuery</span> and along with using frameworks like <span class="skill">Bootstrap</span>. </p>
 
 					<p> I have experience using <span class="skill">WordPress</span>, <span class="skill">Drupal</span>, <span class="skill">Shopify</span> and <span class="skill">WooCommerce</span>, and I can also create Accessible PDF and Word Documents. And even can create and manage email campaigns using <span class="skill">MailChimp</span>.</p>
 					<span id="about"></span>
@@ -21,10 +21,10 @@
 				</div>
 
 
-				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently learning</h1>
+				<h1 class="large-heading neon-gradient second-level-heading">What I've been learning</h1>
 				<div class="content">
 					<p>
-                        To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles.
+                        To expand my knowledge I've been learning the front-end JS framework called <span class="skill">React</span>. You are more than welcome to check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles and learning the <span class="skill">Astro web framework</span>.
 					</p>
 				</div>
 
@@ -32,12 +32,9 @@
 				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently building</h1>
 				<div class="content">
 					<p>
-					I'm currently working on updating my own <span class="skill">WordPress framework</span> that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields. You can visit the  <a href="https://github.com/tim-green/groundctrl-wp-framework" rel="nofollow"><span class="bold-text neon-gradient-underline"> GitHub repo here</span></a> to see the ongoing development of the framework.
-					</p>
-
-
-					<p>
-					I've finished up building a simple blog theme for WordPress called <span class="skill">Rosewood</span>, you can see what the theme looks like by <a href="//themes.timgreen.ws/rosewood/" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">visiting this link</span></a> and I will take you there. Or you can visit the <a href="//github.com/tim-green/rosewood-wp-theme" rel="nofollow"><span class="bold-text neon-gradient-underline">GitHub repo here</span></a> to see the theme code. Also I've created my first <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
+					I'm currently working on updating some of my past <span class="skill">React</span> projects. And I'm still in the on-going progress of my own WordPress theme framework that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields.</p>
+					
+					<p>I've finished up building a simple blog theme for WordPress called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a> and a simple <a href="http://rps.timgreen.xyz/" rel="nofollow"><span class="bold-text neon-gradient-underline">Rock, Paper, Scissors game</span></a>. Also I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
                     </p>
 				</div>
 		</div>
