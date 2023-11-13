@@ -6,7 +6,7 @@
 				<p class="overline">Drupal Theme</p>
 				<h3 class="large-heading">Flywheel</h3>
 				<div class="content">
-					<p>As someone who primarly develops WordPress based websites, I want to jump into developing and expand my knowledge of Drupal by making this basic theme for Drupal. Flywheel uses Bootstrap for the CSS framework, Flexslider for the home page slider and I use the Block layout within the Drupal administration dashboard to position content.
+					<p>As a developer primarily focused on WordPress-based websites, I aim to broaden my expertise in Drupal by creating this theme called Flywheel.</p> <p>Flywheel integrates Bootstrap as its CSS framework, employs Flexslider for the homepage slider, and utilises the Block layout feature within the Drupal administration dashboard for content positioning.
 					</p>
 
 				</div>
