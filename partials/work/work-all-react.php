@@ -173,9 +173,8 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				<p class="overline">React</p>
 				<h3 class="large-heading">GroundCTRL React UI</h3>
 				<div class="content">
-					<p>As I'm reading, learning up and understand UI and UX principles along the side of learning React I decided to build a React based User Interface Dashboard
+					<p>While delving into the realms of UI and UX principles alongside my exploration of React, I opted to construct a User Interface Dashboard based on React. 
                     </p>
-					<p>The content in this Dashboard is using the filler text from my RT Lorem Ipsum React app..</p>
                     <span></span>
 				</div>
 				<dl class="details">
