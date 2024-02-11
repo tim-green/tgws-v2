@@ -17,7 +17,7 @@
 					<span id="about"></span>
 					<p>I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>. I use <span class="skill">GruntJS</span> to automatically perform frequent that I use on a daily basis when building websites and while using <span class="skill">GitHub</span> and <span class="skill">Fork Git Client</span> to help with versioning control my code.</p>
 
-					<p>Every week I use a social media management tool called <span class="skill">HootSuite</span> where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called <a href="//somewhatcreative.net" rel="follow" target="_blank"><span class="bold-text neon-gradient-underline">SomeWhat Creative</span></a>.</p>
+					<p>Each week I use a social media management tool called Social Champ where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called <a href="//somewhatcreative.net" rel="follow" target="_blank"><span class="bold-text neon-gradient-underline">SomeWhat Creative</span></a>. Additionally, I have experience with other social media management platforms such as HootSuite, Buffer, and AgoraPulse.</p>
 				</div>
 
 
