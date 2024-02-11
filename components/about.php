@@ -34,7 +34,7 @@
 					<p>
 					I'm currently working on updating some of my past <span class="skill">React</span> projects. And I'm still in the on-going progress of my own WordPress theme framework that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields.</p>
 					
-					<p>I've finished up building a simple blog theme for WordPress called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a> and a simple <a href="http://rps.timgreen.xyz/" rel="nofollow"><span class="bold-text neon-gradient-underline">Rock, Paper, Scissors game</span></a>. Also I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
+					<p>I've finished up building a simple blog theme for WordPress called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>, a Full Site Editing WordPress theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a>. Also I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
                     </p>
 				</div>
 		</div>
