@@ -21,7 +21,7 @@
 				</div>
 
 
-				<h1 class="large-heading neon-gradient second-level-heading">What I've been learning</h1>
+				<h1 class="large-heading neon-gradient second-level-heading">I constantly try to improve myself</h1>
 				<div class="content">
 					<p>
                         To expand my knowledge I've been learning the front-end JS framework called <span class="skill">React</span>. You are more than welcome to check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles and learning the <span class="skill">Astro web framework</span>.
@@ -29,7 +29,7 @@
 				</div>
 
 
-				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently building</h1>
+				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently doing</h1>
 				<div class="content">
 					<p>
 					I'm currently working on updating some of my past <span class="skill">React</span> projects. And I'm still in the on-going progress of my own WordPress theme framework that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields.</p>
