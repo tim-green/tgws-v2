@@ -24,7 +24,7 @@
 				<h1 class="large-heading neon-gradient second-level-heading">I constantly try to improve myself</h1>
 				<div class="content">
 					<p>
-                        To expand my knowledge I've been learning the front-end JS framework called <span class="skill">React</span>. You are more than welcome to check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles and learning the <span class="skill">Astro web framework</span>.
+                        To expand my knowledge I've been learning the front-end JS framework called <span class="skill">React</span>. And you are more than welcome to check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles and learning the <span class="skill">Astro web framework</span>.
 					</p>
 				</div>
 
