@@ -21,21 +21,18 @@
 				</div>
 
 
-				<h1 class="large-heading neon-gradient second-level-heading">I constantly try to improve myself</h1>
+				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently working on</h1>
 				<div class="content">
 					<p>
-                        To expand my knowledge I've been learning the front-end JS framework called <span class="skill">React</span>. And you are more than welcome to check out some of my React projects that I've <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="bold-text">coded up here</span></a>. I'm also taking some time to read, learn up and understand UI and UX principles and learning the <span class="skill">Astro web framework</span>.
-					</p>
+					I'm currently working on updating some of my past <span class="skill">React</span> projects and building some WordPress themes. The first theme is a simple blog theme called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>. And I've built one Full Site Editing theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a> & I'm currently building another WordPress FSE theme called <a href="https://themes.timgreen.ws/pulp/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Pulp</span></a>. Lastly, I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
+                    </p>
 				</div>
 
-
-				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently doing</h1>
+				<h1 class="large-heading neon-gradient second-level-heading">Also, I constantly try to improve myself</h1>
 				<div class="content">
 					<p>
-					I'm currently working on updating some of my past <span class="skill">React</span> projects. And I'm still in the on-going progress of my own WordPress theme framework that combines the power of Bootstrap 5, GruntJS and one of my favourite plugin called Advanced Custom Fields.</p>
-					
-					<p>I've finished up building a simple blog theme for WordPress called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>, a Full Site Editing WordPress theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a>. Also I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
-                    </p>
+						So, to expand my knowledge, I'm taking some time to read, learn about UI and UX principles, and study the <span class="skill">Astro Web Framework</span>.
+					</p>
 				</div>
 		</div>
 	</div>
