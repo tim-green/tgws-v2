@@ -1,4 +1,3 @@
-<?php include_once('config/minification.php');?>
 <!doctype html>
 <!-- Hello there! As you are analysing my source code, I assume that you are a technically interested and creative person. What brought you here is beyond me. As I can tell you this. This site is no masterpiece. But I am happy you are here and I want you to never stop exploring source code. 
 
