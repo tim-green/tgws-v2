@@ -15,7 +15,7 @@
 
 					<p> I have experience using <span class="skill">WordPress</span>, <span class="skill">Drupal</span>, <span class="skill">Shopify</span> and <span class="skill">WooCommerce</span>, and I can also create Accessible PDF and Word Documents. And even can create and manage email campaigns using <span class="skill">MailChimp</span>.</p>
 					<span id="about"></span>
-					<p>I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>. I use <span class="skill">GruntJS</span> to automatically perform frequent that I use on a daily basis when building websites and while using <span class="skill">GitHub</span> and <span class="skill">Fork Git Client</span> to help with versioning control my code.</p>
+					<p>I also have experience with the design and video software from <span class="skill">Adobe Creative Cloud</span>. I use <span class="skill">GruntJS</span>, <span class="skill">ParcelJS</span> or <span class="skill">Webpack</span> to automatically perform task that I use on a daily basis when building websites and while using <span class="skill">GitHub</span> and <span class="skill">Fork Git Client</span> to help with versioning control my code.</p>
 
 					<p>Each week I use a social media management tool called Social Champ where I create and schedule social media posts to Facebook and Instagram about the upcoming posts on my web design blog called <a href="//somewhatcreative.net" rel="follow" target="_blank"><span class="bold-text neon-gradient-underline">SomeWhat Creative</span></a>. Additionally, I have experience with other social media management platforms such as HootSuite, Buffer, and AgoraPulse.</p>
 				</div>
