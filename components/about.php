@@ -9,7 +9,7 @@
 				</h3>
 
 				<div class="content" >
-					<p>I'm a web developer with a passion for strong, simple websites. I have 15 years of experience working in both an advertising agency and a freelance capacity, mainly focusing on building websites and web applications that are simple to use and look great.</p>
+					<p>I'm a web developer with a passion for strong, simple websites. I have 16 years of experience working in both an advertising agency and a freelance capacity, mainly focusing on building websites and web applications that are simple to use and look great.</p>
 
 					<p>I've worked with some great agencies, government organisations, individuals and start-ups to reach both business and website goals. My approach is realistic and creative, supported by skills in web development such as using <span class="skill">HTML</span>, <span class="skill">CSS/Sass</span>, <span class="skill">PHP</span>, <span class="skill">JavaScript/jQuery</span> and along with using frameworks like <span class="skill">Bootstrap</span>. </p>
 
