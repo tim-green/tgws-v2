@@ -28,12 +28,12 @@
                     </p>
 				</div>
 
-				<h1 class="large-heading neon-gradient second-level-heading">Also, I constantly try to improve myself</h1>
+				<?php /*<h1 class="large-heading neon-gradient second-level-heading">Also, I constantly try to improve myself</h1>
 				<div class="content">
 					<p>
 						So, to expand my knowledge, I'm taking some time to read, learn about UI and UX principles, and learn the <span class="skill">Astro Web Framework</span>.
 					</p>
-				</div>
+				</div>*/?>
 		</div>
 	</div>
 </div>
