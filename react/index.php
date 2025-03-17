@@ -7,7 +7,7 @@
   <meta name="robots" content="index,follow" />
   <meta name="theme-color" content="#11998e">
   <meta name="author" content="Tim Green">
-  <title>Tim Green // React Fun</title>
+  <title>Tim Green // React Projects</title>
   <meta name="description" content="To expand my knowledge I'm currently learning ReactJS, you can check out some of my React projects that I've coded up here">
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicon/apple-touch-icon.png">
@@ -42,7 +42,7 @@
 								<!-- svg -->
 							</div>
 							<!-- title -->
-							<h1 class="display-heading">Here's some React Fun<span class="visually-hidden"> Green</span>. <span class="neon-gradient">aka the place where I will showcase what I've done with React.</span>
+							<h1 class="display-heading">React Projects<span class="visually-hidden"> Green</span><span class="neon-gradient">.</span>
 							<!-- Front End Developer living in Canberra, Australia -->
 						</h1>
         
@@ -85,7 +85,7 @@
 		</div>
 	</header>
     
-    <article class="white-background">
+    <!-- <article class="white-background">
         <div class="wrapper no-padding">
             <div>
                 <h3 class="large-heading black-text" data-text="Some React work">
@@ -95,7 +95,7 @@
                 <span class="black-text">Please note that not all of my react works been featured here.</span>
             </div>
         </div>
-    </article>
+    </article> -->
     <?php 
     // react projects
     include_once('../partials/work/work-all-react.php');
