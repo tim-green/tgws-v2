@@ -86,33 +86,35 @@
 		<header class="project-overview expandable">
 			<div>
 				<p class="overline">React</p>
-				<h3 class="large-heading">Film Base</h3>
+				<h3 class="large-heading" id="ott-heading">Otter</h3>
 				<div class="content">
-					<p>A React that fetches the data from TMDB (The Movie Database) API. It also displays the movie rating, budget, runtime and official site if it is avialable. 
-                    </p>
+					<p>Otter is a movie information platform built with React, Redux, and Vite, using the TMDB API for dynamic movie data. The app has a responsive, easy-to-navigate UI that allows users to explore movie details, ratings, and cast.</p><p>Modern design elements like card-based previews and category filters make browsing seamless and efficient. This project highlights a user-focused interface and practical use of popular front-end technologies. </p>
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://movies.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://otter.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
-					<dd><a href="https://github.com/tim-green/movdab" target="_blank">View Repo</a></dd>
+					<dd><a href="https://github.com/tim-green/tmdb-react-app" target="_blank">View Repo</a></dd>
 				</dl>
 			</div>
 		</header>
 		<div class="project-content">
 			<div class="gallery">
-				<div class="gallery-placeholder">
-					<img class="lazy-inline" data-src="../assets/images/react-slides/react-filmbase.webp" width="800" height="600" alt="Loading Image...">
+			<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-otter-slide-1.webp" width="800" height="600" alt="Loading Otter Images...">
 				</div>
 				<div class="gallery-wrapper">
 					<div class="gallery-item main dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-filmbase.webp" width="800" height="600" alt="">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-otter-slide-1.webp" width="800" height="600" alt="Otter landing page">
 					</div>
-                    <div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-filmbase-2.webp" width="800" height="600" alt="">
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-otter-slide-2.webp" width="800" height="600" alt="Otter show details">
 					</div>
-                    <div class="gallery-item dark">
-						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-filmbase-3.webp" width="800" height="600" alt="">
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-otter-slide-3.webp" width="800" height="600" alt="show trailer player and footer design">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-otter-slide-4.webp" width="800" height="600" alt="404 Page design and responsive design elements">
 					</div>
 				</div>
 			</div>
@@ -164,6 +166,48 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 */?>
+
+<!-- react 13 -->
+<article id="react-13" class="project">
+	<div class="wrapper">
+		<header class="project-overview expandable">
+			<div>
+				<p class="overline">React</p>
+				<h3 class="large-heading" id="alb-heading">Albert</h3>
+				<div class="content">
+					<p>Albert is a React-based tool that identifies and analyzes the content management systems (CMS) and eCommerce platforms powering websites. It detects popular CMS platforms like WordPress, Drupal, and Magento, along with headless CMS and enterprise solutions.</p><p>The tool uses pattern matching and digital fingerprinting techniques, providing confidence scores and detailed analysis based on indicators such as HTML structure and JavaScript files.</p>
+				</div>
+				<dl class="details">
+					<dt>Visit</dt>
+					<dd><a href="http://albert.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="https://github.com/tim-green/albert-cms-detector" target="_blank">View Repo</a></dd>
+				</dl>
+			</div>
+		</header>
+		<div class="project-content">
+			<div class="gallery">
+				<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-albert-slide-1.webp" width="800" height="600" alt="Loading Albert Images...">
+				</div>
+				<div class="gallery-wrapper">
+					<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-albert-slide-1.webp" width="800" height="600" alt="Albert start page">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-albert-slide-2.webp" width="800" height="600" alt="result page of CMS detector">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-albert-slide-3.webp" width="800" height="600" alt="result page of CMS detector with additional information">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-albert-slide-4.webp" width="800" height="600" alt="error page of Albert">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
 
 <!-- react 5 -->
 <article id="react-5" class="project">
@@ -456,3 +500,91 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 		</div>
 	</div>
 </article>
+
+<?php /* 
+<!-- react 12 -->
+<article id="react-12" class="project">
+	<div class="wrapper">
+		<header class="project-overview expandable">
+			<div>
+				<p class="overline">React</p>
+				<h3 class="large-heading">COVID-19 Dashboard</h3>
+				<div class="content">
+					<p>This is a React dashboard showing the current COVID-19 world and country stats. The COVID-19 Data is sourced from  <a href="https://github.com/CSSEGISandData/COVID-19" rel="nofollow" target="_blank">Johns Hopkins CSSE</a>.
+                    </p>
+				</div>
+				<dl class="details">
+					<dt>Visit</dt>
+					<dd><a href="http://covid19.timgreen.xyz" target="_blank">View Project</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="//github.com/tim-green/react-covid19-dash" target="_blank">View Repo</a></dd>
+				</dl>
+			</div>
+		</header>
+		<div class="project-content">
+			<div class="gallery">
+				<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-covid.webp" width="800" height="600" alt="Loading Image...">
+				</div>
+				<div class="gallery-wrapper">
+					<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid.webp" width="800" height="600" alt="covid 19 react app">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid2.webp" width="800" height="600" alt="covid 19 react app stats">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-covid3.webp" width="800" height="600" alt="covid 19 react app data">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+*/?>
+
+<!-- react 13 -->
+<article id="react-13" class="project">
+	<div class="wrapper">
+		<header class="project-overview expandable">
+			<div>
+				<p class="overline">React</p>
+				<h3 class="large-heading" id="rps-heading">Rock <br/>Paper<br/> Scissors</h3>
+				<div class="content">
+					<p>This is a React app of the classic and well loved game – Rock Paper Scissors. </p>
+				</div>
+				<dl class="details">
+					<dt>Visit</dt>
+					<dd><a href="http://rps.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dt>Git Repo</dt>
+					<dd><a href="https://github.com/tim-green/rps-react" target="_blank">View Repo</a></dd>
+				</dl>
+			</div>
+		</header>
+		<div class="project-content">
+			<div class="gallery">
+				<div class="gallery-placeholder">
+					<img class="lazy-inline" data-src="../assets/images/react-slides/react-rps-1.webp" width="800" height="600" alt="Loading Image...">
+				</div>
+				<div class="gallery-wrapper">
+					<div class="gallery-item main dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rps-1.webp" width="800" height="600" alt="to do list">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rps-2.webp" width="800" height="600" alt="mobile view of the todo list">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rps-3.webp" width="800" height="600" alt="mobile view of the todo list">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rps-4.webp" width="800" height="600" alt="mobile view of the todo list">
+					</div>
+					<div class="gallery-item dark">
+						<img class="gallery-lazy" data-src="../assets/images/react-slides/react-rps-5.webp" width="800" height="600" alt="mobile view of the todo list">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</article>
+
