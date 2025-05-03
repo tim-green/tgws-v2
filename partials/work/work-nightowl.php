@@ -21,7 +21,7 @@
 					<dt>Year</dt>
 					<dd>2019</dd>
 					<dt>Visit</dt>
-					<dd><a href="//night-owl.timgreen.ws/" target="_blank">View Website</a></dd>
+					<dd><a href="http://nightowl.timgreen.xyz/" target="_blank">View Website</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/night-owl-dashboard/" target="_blank">View Repo</a></dd>
 				</dl>
