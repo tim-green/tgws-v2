@@ -11,7 +11,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://otter.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://otter.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/tmdb-react-app" target="_blank">View Repo</a></dd>
 					<dt>See More</dt>

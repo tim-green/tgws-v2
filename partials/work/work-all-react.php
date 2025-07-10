@@ -1,5 +1,7 @@
 <?php /* react projects */ ?>
 <!-- react 1 -->
+
+<?php /* 
 <article id="react-1" class="project">
 	<div class="wrapper">
 		<header class="project-overview expandable">
@@ -33,8 +35,10 @@
 		</div>
 	</div>
 </article>
+*/
+?>
 
-
+<?php /*
 <!-- react 2 -->
 <article id="react-2" class="project">
 	<div class="wrapper">
@@ -78,7 +82,8 @@
 		</div>
 	</div>
 </article>
-
+*/
+?>
 
 <!-- react 3 -->
 <article id="react-3" class="project">
@@ -92,7 +97,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://otter.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://otter.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/tmdb-react-app" target="_blank">View Repo</a></dd>
 				</dl>
@@ -179,7 +184,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://albert.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://albert.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/albert-cms-detector" target="_blank">View Repo</a></dd>
 				</dl>
@@ -223,7 +228,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://groundctrl-ui.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://groundctrl-ui.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/groundctrl-ui" target="_blank">View Repo</a></dd>
 				</dl>
@@ -250,7 +255,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 
-
+<?php /*
 <!-- react 6 -->
 <article id="react-6" class="project">
 	<div class="wrapper">
@@ -288,6 +293,8 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 		</div>
 	</div>
 </article>
+*/
+?>
 
 <!-- react 7 -->
 <article id="react-7" class="project">
@@ -304,7 +311,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://snake.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://snake.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/react-snake-game" target="_blank">View Repo</a></dd>
 				</dl>
@@ -349,7 +356,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://tetris.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://tetris.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/tetris-rush" target="_blank">View Repo</a></dd>
 				</dl>
@@ -379,7 +386,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 	</div>
 </article>
 
-
+<?php /*
 <!-- react 9 -->
 <article id="react-9" class="project">
 	<div class="wrapper">
@@ -419,7 +426,8 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 		</div>
 	</div>
 </article>
-
+*/
+?>
 
 <!-- react 10 -->
 <article id="react-10" class="project">
@@ -437,7 +445,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://todo-demo.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://todo-demo.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/todoist-clone-react" target="_blank">View Repo</a></dd>
 				</dl>
@@ -477,7 +485,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://colour.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://colour.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/colour-contrast-checker" target="_blank">View Repo</a></dd>
 				</dl>
@@ -555,7 +563,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://rps.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://rps.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/rps-react" target="_blank">View Repo</a></dd>
 				</dl>
