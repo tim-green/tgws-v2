@@ -87,7 +87,7 @@
 
 <!-- react 3 -->
 <article id="react-3" class="project">
-	<div class="wrapper">
+	<div class="wrapper" id="react-1">
 		<header class="project-overview expandable">
 			<div>
 				<p class="overline">React</p>
