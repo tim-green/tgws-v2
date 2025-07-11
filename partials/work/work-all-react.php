@@ -1,7 +1,7 @@
 <?php /* react projects */ ?>
 <!-- react 1 -->
 
-<?php /* 
+
 <article id="react-1" class="project">
 	<div class="wrapper">
 		<header class="project-overview expandable">
@@ -15,7 +15,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://ipinfo.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://ipinfo.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/ip-info-react" target="_blank">View Repo</a></dd>
 				</dl>
@@ -35,8 +35,7 @@
 		</div>
 	</div>
 </article>
-*/
-?>
+
 
 <?php /*
 <!-- react 2 -->
@@ -87,7 +86,7 @@
 
 <!-- react 3 -->
 <article id="react-3" class="project">
-	<div class="wrapper" id="react-1">
+	<div class="wrapper">
 		<header class="project-overview expandable">
 			<div>
 				<p class="overline">React</p>
