@@ -37,7 +37,6 @@
 </article>
 
 
-<?php /*
 <!-- react 2 -->
 <article id="react-2" class="project">
 	<div class="wrapper">
@@ -52,7 +51,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://pw-gen.timgreen.xyz/" target="_blank">View Project</a></dd>
+					<dd><a href="http://pw-gen.timgreen.website/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/password-generator" target="_blank">View Repo</a></dd>
 				</dl>
@@ -81,8 +80,7 @@
 		</div>
 	</div>
 </article>
-*/
-?>
+
 
 <!-- react 3 -->
 <article id="react-3" class="project">
