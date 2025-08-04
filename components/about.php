@@ -21,12 +21,12 @@
 				</div>
 
 
-				<h1 class="large-heading neon-gradient second-level-heading">What I'm currently working on</h1>
+			<?php /*<h1 class="large-heading neon-gradient second-level-heading">What I'm currently working on</h1>
 				<div class="content">
 					<p>
 					I'm currently working on updating some of my past <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="skill">React</span></a> projects and building some WordPress themes. The first theme is a simple blog theme called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>. And I've built one Full Site Editing theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a> & I'm currently building another WordPress FSE theme called <a href="https://themes.timgreen.ws/pulp/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Pulp</span></a>. Lastly, I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
                     </p>
-				</div>
+				</div> -->*/?>
 
 				<?php /*<h1 class="large-heading neon-gradient second-level-heading">Also, I constantly try to improve myself</h1>
 				<div class="content">
@@ -37,3 +37,13 @@
 		</div>
 	</div>
 </div>
+<section id="currentWork" class="purple-gradient wrapper">
+        <div>
+			<h1 class="large-heading">What I'm currently working on</h1>
+				<div class="content">
+					<p>
+					I'm currently working on updating some of my past <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="skill">React</span></a> projects and building some WordPress themes. The first theme is a simple blog theme called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>. And I've built one Full Site Editing theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a> & I'm currently building another WordPress <span class="tool" data-tooltip="Full Site Editing">FSE</span> theme called <a href="https://themes.timgreen.ws/pulp/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Pulp</span></a>. Lastly, I have created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume.
+                    </p>
+				</div>
+        </div>
+</section>
