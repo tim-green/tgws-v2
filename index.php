@@ -62,7 +62,6 @@ So share, teach, introduce, help, mentor. Use that brain to make this place bett
     <!-- js -->
     <script src="build/app.min.js"></script>
     <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
-    <script async src='https://cdn.loado.dev/sdk.js'></script>
 
       <!-- hotjar -->
     <?php 
