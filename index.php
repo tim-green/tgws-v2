@@ -16,10 +16,13 @@ So share, teach, introduce, help, mentor. Use that brain to make this place bett
 
   <!-- DNS Prefetch -->
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  <link rel="dns-prefetch" href="https://jsdelivr.net">
   <!-- Preload -->
   <link rel="preload" href="build/app.min.css" as="style">
   <!-- Style for App -->
   <link rel="stylesheet" href="build/app.min.css">
+  <!-- font awesome -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magic-webfonts@1.1.4/css/all.min.css">
   <!-- analytics -->
   <?php include_once('config/analytics.php');?>
 </head>
@@ -61,8 +64,6 @@ So share, teach, introduce, help, mentor. Use that brain to make this place bett
     </footer>
     <!-- js -->
     <script src="build/app.min.js"></script>
-    <script src="https://kit.fontawesome.com/c20cab8581.js" crossorigin="anonymous"></script>
-
       <!-- hotjar -->
     <?php 
       include_once('config/hotjar.php');
