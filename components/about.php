@@ -43,7 +43,8 @@
 				<div class="content">
 					<p>
 					I'm currently working on updating some of my past <a href="/react" rel="nofollow" class="neon-gradient-underline"><span class="skill">React</span></a> projects and building some WordPress themes. The first WordPress theme is a simple blog theme called <a href="https://themes.timgreen.ws/rosewood/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Rosewood</span></a>. And I've built one Full Site Editing theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a>. 
-					
+					</p>
+					<p>
 					In addition, I’ve been building up my knowledge of the Astro JS Framework and you can check out what I’ve coded in Astro <a href="https://astro.timgreen.ws/" rel="nofollow"><span class="bold-text neon-gradient-underline">right here</span></a>. Lastly, I created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume. 
                     </p>
 				</div>
