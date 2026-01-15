@@ -11,6 +11,7 @@
 					<p>I constructed a WordPress theme with the primary objective of creating a design that is simple and facilitates easy consumption of their content.</p> 
 					
 					<p> To streamline content management, I incorporated the Fusion Page Builder plugin, empowering RSL to independently handle their content updates. </p> 
+				
 				</div>
 				<dl class="details">
 					<dt>Client</dt>
@@ -22,6 +23,7 @@
 					<dt>Visit</dt>
 					<dd><a href="http://rslnational.org" target="_blank" rel="nofollow">View Website</a></dd>
 				</dl>
+				
 			</div>
 		</header>
 		<div class="project-content">
