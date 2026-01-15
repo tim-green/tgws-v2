@@ -1,16 +1,16 @@
 <?php /* the networks */ ?>
 <nav id="social-networks">
 	<h2 class="visually-hidden">Social Networks</h2>
-	<p>Otherwise you can follow me on these other few social networks or <br>view my resume in PDF form or my alternative resume as a NPM Package:</p>
+	<p>Otherwise you can see me on instagram or read my resume in either <br/> in PDF form or even my alternative resume built as a NPM Package:</p>
 	<ul>
 	<li><a class="button button-icon" rel="external noopener" href="//instagram.com/somewhatcreative" target="_blank" title="Instagram"><span>
 						<i class="fab fa-instagram neon-gradient"></i>	
 						<span class="visually-hidden">Instagram</span></span></a>
 		</li>
-		<li><a class="button button-icon" rel="external noopener" href="//somewhatcreative.net" target="_blank" title="SomeWhat Creative Blog"><span>
+		<!-- <li><a class="button button-icon" rel="external noopener" href="//somewhatcreative.net" target="_blank" title="SomeWhat Creative Blog"><span>
 						<i class="fab fa-wordpress-simple neon-gradient"></i>	
 						<span class="visually-hidden">Blog</span></span></a>
-		</li>
+		</li> -->
 		<li><a class="button button-icon" rel="external noopener" href="/tim-green-resume" target="_blank" title="Tim Green's Resume in PDF Form"><span>
 						<i class="fal fa-file-pdf neon-gradient"></i>	
 						<span class="visually-hidden">PDF</span></span></a>
