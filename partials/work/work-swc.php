@@ -13,13 +13,13 @@
 					<!-- <dt>Client</dt>
 					<dd>SomeWhat Creative</dd> -->
 					<dt>Type</dt>
-					<dd>Personal Blog</dd>
-					<dt>Year</dt>
-					<dd>2017</dd>
+					<dd>WordPress Theme</dd>
+					<!-- <dt>Year</dt>
+					<dd>2017</dd> -->
 					<dt>Visit</dt>
 					<dd><a href="//somewhatcreative.net" target="_blank">View Website</a></dd>
-					<?php /* <dt>Git Repo</dt>
-					<dd><a href="//github.com/tim-green/swc-wp-theme" target="_blank">View Repo</a></dd> */?>
+					<dt>Git Repo</dt>
+					<dd><a href="//github.com/tim-green/swc-wp-theme" target="_blank">View Repo</a></dd>
 				</dl>
 			</div>
 		</header>

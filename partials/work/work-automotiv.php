@@ -17,8 +17,8 @@
 					<dd>WooCommerce Theme</dd>
 					<!-- <dt>Agency</dt>
 					<dd>Freelance</dd> -->
-					<dt>Year</dt>
-					<dd>2020</dd>
+					<!-- <dt>Year</dt>
+					<dd>2020</dd> -->
 					<dt>Visit</dt>
 					<dd><a href="//themes.timgreen.ws/automotiv" target="_blank">View Website</a></dd>
 					<dt>Git Repo</dt>

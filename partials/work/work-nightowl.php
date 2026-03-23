@@ -18,8 +18,8 @@
 					<dd>Personal Concept</dd> -->
 					<dt>Type</dt>
 					<dd>UI Dashboard</dd>
-					<dt>Year</dt>
-					<dd>2019</dd>
+					<!-- <dt>Year</dt>
+					<dd>2019</dd> -->
 					<dt>Visit</dt>
 					<dd><a href="http://night-owl.timgreen.ws/" target="_blank">View Website</a></dd>
 					<dt>Git Repo</dt>

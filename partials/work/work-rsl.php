@@ -18,8 +18,8 @@
 					<dd>RSL National</dd>
 					<dt>Agency</dt>
 					<dd>2B Advertising & Design</dd>
-					<dt>Year</dt>
-					<dd>2017</dd>
+					<!-- <dt>Year</dt>
+					<dd>2017</dd> -->
 					<dt>Visit</dt>
 					<dd><a href="http://rslnational.org" target="_blank" rel="nofollow">View Website</a></dd>
 				</dl>
