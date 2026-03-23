@@ -6,10 +6,9 @@
 				<p class="overline">WordPress Theme</p>
 				<h3 class="large-heading">Automotiv</h3>
 				<div class="content">
-					<p>I created this WooCommerce theme to enhance my expertise in developing eCommerce-focused websites. The primary focus while designing this theme was to keep it straightforward and easily manageable, achieved through the implementation of a custom-built page builder for seamless content management.
-					</p>
-					<p>The custom page builder functionality employs the Advanced Custom Fields Pro plugin, utilising the Flexible Content field type to achieve essential page-building capabilities. The eCommerce functionality is integrated using the WooCommerce plugin for the store.
-					</p>
+					<p>The Automotiv WooCommerce theme is built with a focus on simplicity, performance and maintainability. It has a custom page builder which enables flexible and efficient content management.</p>
+					<p>Which got implemented by using the Advanced Custom Fields plugin with the Flexible Content field type to support a modular page structure.</p>
+
 
 				</div>
 				<dl class="details">

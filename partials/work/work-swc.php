@@ -7,7 +7,7 @@
 				<p class="overline">Website</p>
 				<h3 class="large-heading">SomeWhat Creative</h3>
 				<div class="content">
-					<p>This WordPress theme is designed for my web design blog, SomeWhat Creative. Like many of the themes I develop, it follows a simplistic design approach.</p> <p>The theme incorporates the SiteOrigin Widgets Bundle, allowing me to display Social Media Buttons on the sidebar of the theme..</p>
+					<p>This WordPress theme is designed for my web design blog, SomeWhat Creative. Like many of the themes I develop, it follows a simplistic design approach.</p> <p>The theme incorporates the SiteOrigin Widgets Bundle, allowing me to display Social Media Buttons on the sidebar of the theme.</p>
 				</div>
 				<dl class="details">
 					<!-- <dt>Client</dt>

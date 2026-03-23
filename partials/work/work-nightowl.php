@@ -7,11 +7,9 @@
 				<p class="overline">UI Design</p>
 				<h3 class="large-heading">Night Owl</h3>
 				<div class="content">
-					<p>In the late 2019 I was getting interested in User Interfaces so I've built this full admin dashboard  called Night Owl.</p>
+					<p>Night Owl is a full admin dashboard I developed while exploring user interface design. </p>
 					
-					<p> Night Owl uses Bootstrap 4 CSS Framework has has been based on a simple and modular design. 
-					</p>
-					<p>It also comes with lots of reusable and beautiful UI elements, widgets. </p>
+					<p>Built on the Bootstrap 4 CSS framework, Night Owl follows a clean, modular design approach and includes a wide range of reusable, well-crafted UI elements and widgets.</p>
 				</div>
 				<dl class="details">
 					<!-- <dt>Client</dt>

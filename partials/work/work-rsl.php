@@ -6,11 +6,11 @@
 				<p class="overline">Website</p>
 				<h3 class="large-heading">RSL National Office</h3>
 				<div class="content">
-					<p>In 2017, the Returned and Services League of Australia National sought a redesign for their WordPress website.</p>
+					<p>In 2017, the Returned and Services League of Australia National sought a redesign of their WordPress website.</p>
 
-					<p>I constructed a WordPress theme with the primary objective of creating a design that is simple and facilitates easy consumption of their content.</p> 
+					<p>During my time at 2B Advertising and Design, I developed a custom WordPress theme with a focus on clean, intuitive design to enhance content accessibility and user experience.</p> 
 					
-					<p> To streamline content management, I incorporated the Fusion Page Builder plugin, empowering RSL to independently handle their content updates. </p> 
+					<p>To streamline content management, I integrated the Fusion Page Builder plugin, enabling RSL to independently manage and update their content.</p> 
 				
 				</div>
 				<dl class="details">
