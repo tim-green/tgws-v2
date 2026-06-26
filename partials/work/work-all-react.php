@@ -15,7 +15,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://ipinfo.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://ipinfo.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/ip-info-react" target="_blank">View Repo</a></dd>
 				</dl>
@@ -51,7 +51,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://pw-gen.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://pw-gen.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="//github.com/tim-green/password-generator" target="_blank">View Repo</a></dd>
 				</dl>
@@ -94,7 +94,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://otter.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://otter.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/tmdb-react-app" target="_blank">View Repo</a></dd>
 				</dl>
@@ -140,7 +140,7 @@
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://colour.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://colour.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/colour-contrast-checker" target="_blank">View Repo</a></dd>
 				</dl>
@@ -221,7 +221,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://albert.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://albert.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/albert-cms-detector" target="_blank">View Repo</a></dd>
 				</dl>
@@ -265,7 +265,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://groundctrl-ui.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://groundctrl-ui.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/groundctrl-ui" target="_blank">View Repo</a></dd>
 				</dl>
@@ -348,7 +348,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://snake.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://snake.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/react-snake-game" target="_blank">View Repo</a></dd>
 				</dl>
@@ -393,7 +393,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://tetris.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://tetris.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/tetris-rush" target="_blank">View Repo</a></dd>
 				</dl>
@@ -482,7 +482,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://todo-demo.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://todo-demo.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/todoist-clone-react" target="_blank">View Repo</a></dd>
 				</dl>
@@ -562,7 +562,7 @@ Many of the onscreen ‘talent’ have many remomorable quotes, so I’ve built 
 				</div>
 				<dl class="details">
 					<dt>Visit</dt>
-					<dd><a href="http://rps.timgreen.website/" target="_blank">View Project</a></dd>
+					<dd><a href="http://rps.timgreen.xyz/" target="_blank">View Project</a></dd>
 					<dt>Git Repo</dt>
 					<dd><a href="https://github.com/tim-green/rps-react" target="_blank">View Repo</a></dd>
 				</dl>
