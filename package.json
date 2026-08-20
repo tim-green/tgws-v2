@@ -24,6 +24,6 @@
     "grunt-cwebp": "^3.0.3"
   },
   "dependencies": {
-    "swiper": "^14.0.5"
+    "swiper": "^14.1.0"
   }
 }
