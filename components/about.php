@@ -41,12 +41,10 @@
         <div>
 			<h1 class="large-heading">What I'm currently working on</h1>
 				<div class="content">
-					<p>
-					I'm currently working on updating some of my past <a href="/react" rel="nofollow"  target="_blank" class="neon-gradient-underline"><span class="skill">React</span></a> projects and building some <a href="https://themes.timgreen.ws/sitelist/" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">WordPress themes</span></a>. The current one that I'm building at the present time is a WordPress/WooCommerce theme called <a href="https://themes.timgreen.ws/shortcuts/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Shortcut</span></a>. And I've built one Full Site Editing theme called <a href="https://themes.timgreen.ws/forest/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Forest</span></a>. 
-					</p>
-					<p>
-					In addition, I’ve been building up my knowledge of the Astro JS Framework and you can check out what I’ve coded in Astro <a href="https://astro.timgreen.ws/" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">right here</span></a>. Lastly, I created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume. 
-                    </p>
+					<p>I'm currently working on updating some of my past <a href="/react" rel="nofollow"  target="_blank" class="neon-gradient-underline"><span class="skill">React</span></a> projects and building <a href="https://themes.timgreen.ws/sitelist/" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">WordPress themes</span>. The current project I'm working on is a WordPress/WooCommerce theme called <a href="https://themes.timgreen.ws/shortcuts/" rel="nofollow"><span class="bold-text neon-gradient-underline"> Shortcut</span></a>, which is still an ongoing build.</p>
+
+					<p>In addition, I've been expanding my knowledge of the Astro JS framework. You can check out some of my Astro <a href="https://astro.timgreen.ws/" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">right here</span></a>. My latest Astro projects include <a href="https://timeguy.timgreen.xyz/" rel="nofollow"  target="_blank" class="neon-gradient-underline"><span class="skill">Time Guy</span></a>, a time.is inspired app, and <a href="https://passcraft.timgreen.xyz/" rel="nofollow"  target="_blank" class="neon-gradient-underline"><span class="skill">PassCraft</span></a>, a password and passphrase generator. Lastly, I created my own <a href="//www.npmjs.com/package/tim-green-resume" rel="nofollow" target="_blank"><span class="bold-text neon-gradient-underline">NPM package</span></a> which is based on my resume. </p>
+
 				</div>
         </div>
 </section>
